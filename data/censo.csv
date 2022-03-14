@@ -1,0 +1,1284 @@
+picada,placa,codigo,comum,cap,dap,cc,hc,qf,g,volume,cientifico,familia,obs,categoria,coordx,coordy
+1,1,369,Marfim,103,32.79,35,13,2,0.0844,0.7683,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,587190.339,8896317.659
+1,2,434,Ipê amarelo,180,57.3,55,16,1,0.2578,2.8877,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,APP,587223.105,8896300.193
+1,3,157,Catuaba,140,44.56,45,17,1,0.156,1.8561,"Qualea tessmannii Mildbr,",Vochysiaceae,,Corte futuro,587246.574,8896332.492
+1,4,64,Açacu,150,47.75,45,10,2,0.179,1.2533,"Hura crepitans L,",Euphorbiaceae,,Corte futuro,587299.17,8896319.695
+1,5,255,Garapeira,243,77.35,75,16,2,0.4699,5.2628,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587472.118,8896320.372
+1,6,434,Ipê amarelo,134,42.65,45,15,1,0.1429,1.5003,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,587481.697,8896326.484
+1,7,160,Caucho,226,71.94,75,12,2,0.4064,3.4142,"Castilla ulei Warb,",Moraceae,,Explorável,587487.978,8896332.586
+1,8,434,Ipê amarelo,185,58.89,55,17,2,0.2724,3.241,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,587485.655,8896341.109
+1,9,255,Garapeira,154,49.02,45,16,2,0.1887,2.1137,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Corte futuro,587490.549,8896354.842
+1,10,255,Garapeira,210,66.85,65,15,2,0.3509,3.6848,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587543.856,8896328.457
+1,11,170,Cerejeira,150,47.75,45,16,3,0.179,2.0054,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Corte futuro,587569.823,8896326.179
+1,12,571,Castanharana branca,151,48.06,45,17,1,0.1814,2.1592,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,587599.126,8896312.382
+1,13,434,Ipê amarelo,154,49.02,45,15,1,0.1887,1.9816,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,587607.771,8896308.292
+1,14,610,Amarelão,131,41.7,45,14,3,0.1366,1.3383,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,587632.397,8896336.528
+1,15,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,587647.848,8896331.514
+1,16,9,Abiurana vermelha,223,70.98,75,13,3,0.3957,3.6012,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,Oco,Porta Semente,587651.552,8896332.302
+1,17,264,Guariúba,100,31.83,35,12,1,0.0796,0.6685,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,587656.219,8896335.757
+1,18,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,587683.183,8896339.065
+1,19,9,Abiurana vermelha,220,70.03,75,15,1,0.3852,4.0441,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,587690.848,8896324.959
+1,20,264,Guariúba,178,56.66,55,14,1,0.2521,2.4709,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,587680.751,8896355.393
+1,21,170,Cerejeira,150,47.75,45,11,3,0.179,1.3787,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Corte futuro,587715.996,8896333.017
+1,22,263,Guaribeiro,194,61.75,65,17,1,0.2995,3.564,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,587728.058,8896351.636
+1,23,246,Figueira,275,87.54,85,13,1,0.6018,5.4764,"Ficus maxima Mill,",Moraceae,,Explorável,587776.775,8896345.938
+1,24,61,Aroeira,273,86.9,85,18,1,0.5931,7.4728,Astronium lecointei Ducke,Anacardiaceae,,Explorável,587799.116,8896344.438
+1,25,467,Pinho cuiabano,207,65.89,65,13,1,0.341,3.1029,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,587821.593,8896365.302
+1,26,467,Pinho cuiabano,176,56.02,55,16,3,0.2465,2.7608,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,587855.77,8896338.443
+1,27,536,Tauari,139,44.25,45,17,1,0.1538,1.8296,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,587939.129,8896338.76
+1,28,434,Ipê amarelo,200,63.66,65,18,2,0.3183,4.0107,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,587960.037,8896333.491
+1,29,246,Figueira,188,59.84,55,14,1,0.2813,2.7563,"Ficus maxima Mill,",Moraceae,,Explorável,588005.705,8896362.492
+1,30,716,Manitê,346,110.14,115,18,1,0.9527,12.0036,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588124.919,8896379.534
+1,31,192,Cumaru ferro,352,112.05,115,19,1,0.986,13.1138,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588211.213,8896336.282
+1,32,394,Mulateiro,110,35.01,35,11,1,0.0963,0.7414,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Corte futuro,588218.158,8896350.76
+1,33,467,Pinho cuiabano,213,67.8,65,10,1,0.361,2.5272,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588252.369,8896391.059
+1,34,434,Ipê amarelo,134,42.65,45,16,1,0.1429,1.6004,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588257.853,8896394.428
+1,35,467,Pinho cuiabano,183,58.25,55,15,2,0.2665,2.7982,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588266.492,8896399.097
+1,36,571,Castanharana branca,195,62.07,65,17,1,0.3026,3.6009,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588320.938,8896361.428
+1,37,255,Garapeira,258,82.12,85,15,2,0.5297,5.5618,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588343.144,8896350.317
+1,38,571,Castanharana branca,226,71.94,75,16,1,0.4064,4.5522,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588330.489,8896333.609
+1,39,716,Manitê,258,82.12,85,17,1,0.5297,6.3034,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588347.975,8896364.476
+1,40,382,Mogno/Aguano,173,55.07,55,10,3,0.2382,1.6672,Swietenia macrophylla King,Meliaceae,Oco,Proibida,588376.173,8896364.936
+1,41,255,Garapeira,162,51.57,55,14,2,0.2088,2.0467,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,588463.089,8896384.567
+1,42,255,Garapeira,170,54.11,55,17,1,0.23,2.7367,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588475.107,8896392.434
+1,43,571,Castanharana branca,184,58.57,55,15,2,0.2694,2.8289,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,588556.618,8896395.553
+1,44,640,Imbiridiba amarela,210,66.85,65,14,3,0.3509,3.4392,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,Oco,APP,588590.536,8896401.874
+2,45,434,Ipê amarelo,110,35.01,35,15,1,0.0963,1.011,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588767.881,8896325.515
+2,46,2,Abiu,251,79.9,75,14,1,0.5013,4.9132,"Pouteria caimito (Ruiz & Pav,) Radlk,",Sapotaceae,,Rara,588666.45,8896314.308
+2,47,157,Catuaba,141,44.88,45,16,3,0.1582,1.7719,"Qualea tessmannii Mildbr,",Vochysiaceae,Oco,APP,588579.178,8896337.33
+2,48,61,Aroeira,188,59.84,55,18,1,0.2813,3.5439,Astronium lecointei Ducke,Anacardiaceae,,APP,588557.59,8896349.46
+2,49,160,Caucho,201,63.98,65,12,1,0.3215,2.7006,"Castilla ulei Warb,",Moraceae,,APP,588542.302,8896345.743
+2,50,528,Tamarina,229,72.89,75,17,1,0.4173,4.966,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,APP,588540.156,8896358.909
+2,51,467,Pinho cuiabano,170,54.11,55,16,3,0.23,2.5758,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588492.916,8896333.611
+2,52,45,Angico,314,99.95,95,17,2,0.7846,9.3368,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,588467.385,8896356.622
+2,53,434,Ipê amarelo,137,43.61,45,15,1,0.1494,1.5683,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588442.146,8896348.926
+2,54,263,Guaribeiro,180,57.3,55,18,2,0.2578,3.2487,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588379.274,8896314.212
+2,55,255,Garapeira,144,45.84,45,17,1,0.165,1.9636,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Corte futuro,588365.713,8896318.036
+2,56,157,Catuaba,181,57.61,55,18,1,0.2607,3.2849,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,588359.851,8896306.465
+2,57,154,Castanharana vermelha,226,71.94,75,18,1,0.4064,5.1213,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588367.458,8896302.813
+2,58,434,Ipê amarelo,160,50.93,55,19,1,0.2037,2.7095,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,588207.278,8896293.695
+2,59,61,Aroeira,186,59.21,55,17,1,0.2753,3.2761,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588167.355,8896299.742
+2,60,263,Guaribeiro,250,79.58,75,15,1,0.4974,5.2223,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588144.138,8896303.552
+2,61,716,Manitê,328,104.41,105,16,1,0.8561,9.5886,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588134.296,8896317.645
+2,62,61,Aroeira,168,53.48,55,15,2,0.2246,2.3583,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588076.181,8896316.387
+2,63,716,Manitê,286,91.04,95,16,1,0.6509,7.2902,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588047.762,8896304.028
+2,64,516,Sumauma preta,232,73.85,75,14,1,0.4283,4.1975,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587996.853,8896315.431
+2,65,255,Garapeira,251,79.9,75,18,2,0.5013,6.317,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587989.371,8896321.343
+2,66,536,Tauari,120,38.2,35,16,1,0.1146,1.2834,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,587966.995,8896312.028
+2,67,182,Copaíba,370,117.77,115,16,1,1.0894,12.2015,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,587899.09,8896319.663
+2,68,192,Cumaru ferro,330,105.04,105,20,1,0.8666,12.1324,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,587895.462,8896286.167
+2,69,516,Sumauma preta,254,80.85,85,14,1,0.5134,5.0313,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587884.666,8896297.222
+2,70,9,Abiurana vermelha,147,46.79,45,13,1,0.172,1.5648,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Corte futuro,587888.91,8896312.069
+2,71,610,Amarelão,120,38.2,35,18,1,0.1146,1.4439,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,587818.107,8896306.698
+2,72,9,Abiurana vermelha,160,50.93,55,15,1,0.2037,2.139,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,587776.302,8896279.671
+2,73,154,Castanharana vermelha,236,75.12,75,19,1,0.4432,5.8948,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587775.429,8896268.366
+2,74,168,Cedro rosa,128,40.74,45,13,1,0.1304,1.1865,"Cedrela odorata L,",Meliaceae,,Corte futuro,587725.747,8896250.84
+2,75,168,Cedro rosa,194,61.75,65,12,1,0.2995,2.5158,"Cedrela odorata L,",Meliaceae,,Explorável,587659.812,8896260.166
+2,76,516,Sumauma preta,206,65.57,65,13,2,0.3377,3.073,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587619.309,8896269.996
+2,77,571,Castanharana branca,150,47.75,45,20,1,0.179,2.5067,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,587520.834,8896276.184
+2,78,571,Castanharana branca,229,72.89,75,17,1,0.4173,4.966,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587510.014,8896273.513
+2,79,182,Copaíba,330,105.04,105,12,1,0.8666,7.2794,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,587494.466,8896287.87
+2,80,9,Abiurana vermelha,188,59.84,55,11,1,0.2813,2.1657,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,587490.825,8896267.637
+2,81,434,Ipê amarelo,130,41.38,45,16,1,0.1345,1.5062,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,587469.267,8896269.83
+2,82,255,Garapeira,305,97.08,95,14,3,0.7403,7.2546,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,Oco,Porta Semente,587432.954,8896249.055
+2,83,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,587374.416,8896255.081
+2,84,154,Castanharana vermelha,188,59.84,55,12,1,0.2813,2.3626,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587366.852,8896249.993
+2,85,536,Tauari,191,60.8,65,19,1,0.2903,3.8611,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,587365.303,8896278.292
+2,86,192,Cumaru ferro,352,112.05,115,19,1,0.986,13.1138,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,587167.338,8896243.578
+2,87,160,Caucho,192,61.12,65,15,1,0.2934,3.0802,"Castilla ulei Warb,",Moraceae,,APP,587178.38,8896239.093
+2,88,571,Castanharana branca,261,83.08,85,18,1,0.5421,6.8303,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587163.34,8896219.907
+2,89,160,Caucho,128,40.74,45,13,1,0.1304,1.1865,"Castilla ulei Warb,",Moraceae,,Corte futuro,587020.29,8896246.462
+3,90,170,Cerejeira,132,42.02,45,16,3,0.1387,1.5529,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Corte futuro,587078.515,8896186.838
+3,91,160,Caucho,180,57.3,55,19,3,0.2578,3.4292,"Castilla ulei Warb,",Moraceae,,Porta Semente,587084.956,8896183.292
+3,92,434,Ipê amarelo,248,78.94,75,9,2,0.4894,3.0834,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,587091.603,8896181.228
+3,93,434,Ipê amarelo,173,55.07,55,19,1,0.2382,3.1676,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,587130.64,8896180.985
+3,94,716,Manitê,248,78.94,75,15,1,0.4894,5.139,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587164.597,8896181.126
+3,95,246,Figueira,251,79.9,75,14,1,0.5013,4.9132,"Ficus maxima Mill,",Moraceae,,APP,587273.292,8896199.188
+3,96,45,Angico,242,77.03,75,15,1,0.466,4.8934,"Parkia nitida Miq,",Mimosaceae,,Explorável,587295.609,8896226.095
+3,97,182,Copaíba,433,137.83,135,16,1,1.492,16.7103,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,587325.083,8896214.828
+3,98,182,Copaíba,171,54.43,55,15,1,0.2327,2.4433,Copaifera multijuga Hayne,Caesalpiniaceae,,APP,587320.265,8896194.005
+3,99,610,Amarelão,131,41.7,45,12,3,0.1366,1.1471,Aspidosperma williamsii Duarte,Apocynaceae,,APP,587316.079,8896195.47
+3,100,9,Abiurana vermelha,190,60.48,65,14,2,0.2873,2.8153,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,587472.314,8896222.777
+3,101,54,Aquariquara,160,50.93,55,15,1,0.2037,2.139,"Minquartia guianensis Aubl,",Olacaceae,,Rara,587470.6,8896224.598
+3,102,516,Sumauma preta,310,98.68,95,12,1,0.7647,6.4238,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587483.689,8896230.59
+3,103,716,Manitê,245,77.99,75,14,2,0.4777,4.6811,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,587537.92,8896233.333
+3,104,160,Caucho,210,66.85,65,13,1,0.3509,3.1935,"Castilla ulei Warb,",Moraceae,,Explorável,587647.185,8896247.258
+3,105,45,Angico,153,48.7,45,12,2,0.1863,1.5648,"Parkia nitida Miq,",Mimosaceae,,Corte futuro,587734.482,8896223.385
+3,106,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,587802.367,8896237.716
+3,107,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,587840.44,8896237.883
+3,108,154,Castanharana vermelha,120,38.2,35,13,1,0.1146,1.0428,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Corte futuro,587851.949,8896236.66
+3,109,160,Caucho,148,47.11,45,10,1,0.1743,1.2201,"Castilla ulei Warb,",Moraceae,,Corte futuro,587852.925,8896237.538
+3,110,307,Jequitibá,254,80.85,85,15,1,0.5134,5.3907,Cariniana micrantha Ducke,Lecythidaceae,,Explorável,587856.706,8896239.54
+3,111,264,Guariúba,98,31.19,35,14,1,0.0764,0.749,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,587857.442,8896239.77
+3,112,168,Cedro rosa,198,63.03,65,12,1,0.312,2.6206,"Cedrela odorata L,",Meliaceae,,Explorável,587869.618,8896241.13
+3,113,154,Castanharana vermelha,176,56.02,55,19,1,0.2465,3.2784,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587905.41,8896236.039
+3,114,640,Imbiridiba amarela,183,58.25,55,13,1,0.2665,2.4251,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,587907.154,8896227.832
+3,115,255,Garapeira,200,63.66,65,17,1,0.3183,3.7879,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587982.331,8896244.935
+3,116,536,Tauari,128,40.74,45,19,1,0.1304,1.7341,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,587992.625,8896250.193
+3,117,160,Caucho,251,79.9,75,12,1,0.5013,4.2113,"Castilla ulei Warb,",Moraceae,,Explorável,588008.379,8896256.874
+3,118,255,Garapeira,261,83.08,85,16,2,0.5421,6.0714,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588036.024,8896263.952
+3,119,160,Caucho,207,65.89,65,13,1,0.341,3.1029,"Castilla ulei Warb,",Moraceae,,Explorável,588092.374,8896257.791
+3,120,516,Sumauma preta,314,99.95,95,14,1,0.7846,7.6891,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588115.827,8896263.999
+3,121,571,Castanharana branca,130,41.38,45,17,1,0.1345,1.6004,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588147.045,8896271.116
+3,122,192,Cumaru ferro,286,91.04,95,18,1,0.6509,8.2015,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588192.073,8896271.182
+3,123,785,Xixá vermelho,195,62.07,65,15,1,0.3026,3.1772,"Sterculia apetala Karst,",Malvaceae,,Rara,588179.423,8896275.3
+3,124,154,Castanharana vermelha,226,71.94,75,16,1,0.4064,4.5522,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588221.358,8896265.448
+3,125,571,Castanharana branca,130,41.38,45,17,1,0.1345,1.6004,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588221.805,8896271.36
+3,126,9,Abiurana vermelha,195,62.07,65,15,1,0.3026,3.1772,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,588252.733,8896265.232
+3,127,9,Abiurana vermelha,204,64.94,65,18,1,0.3312,4.1727,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,588267.362,8896258.644
+3,128,246,Figueira,188,59.84,55,13,2,0.2813,2.5595,"Ficus maxima Mill,",Moraceae,,Porta Semente,588488.178,8896300.665
+3,129,168,Cedro rosa,123,39.15,35,13,1,0.1204,1.0956,"Cedrela odorata L,",Meliaceae,,Corte futuro,588519.768,8896290.717
+3,130,516,Sumauma preta,200,63.66,65,10,1,0.3183,2.2282,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588605.807,8896323.724
+4,131,307,Jequitibá,282,89.76,85,18,3,0.6328,7.9737,Cariniana micrantha Ducke,Lecythidaceae,Oco,Porta Semente,588646.034,8896253.604
+4,132,516,Sumauma preta,286,91.04,95,14,3,0.6509,6.3789,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588640.329,8896253.813
+4,133,467,Pinho cuiabano,248,78.94,75,12,1,0.4894,4.1112,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588624.012,8896254.159
+4,134,640,Imbiridiba amarela,160,50.93,55,11,3,0.2037,1.5686,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588549.798,8896244.015
+4,135,263,Guaribeiro,220,70.03,75,17,1,0.3852,4.5833,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588532.389,8896244.512
+4,137,640,Imbiridiba amarela,115,36.61,35,13,1,0.1052,0.9577,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Corte futuro,588446.403,8896248.448
+4,138,160,Caucho,167,53.16,55,11,1,0.2219,1.7089,"Castilla ulei Warb,",Moraceae,,Explorável,588410.721,8896241.899
+4,139,577,Marfim roxo,239,76.08,75,14,2,0.4546,4.4546,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Explorável,588322.104,8896233.245
+4,140,434,Ipê amarelo,193,61.43,65,20,1,0.2964,4.1499,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,588296.852,8896238.942
+4,141,516,Sumauma preta,324,103.13,105,12,3,0.8354,7.0171,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,Oco,Porta Semente,588289.559,8896228.338
+4,143,362,Maparajuba,239,76.08,75,8,2,0.4546,2.5455,"Manilkara paraensis (Huber) Standl,",Sapotaceae,,Rara,588169.585,8896215.739
+4,144,170,Cerejeira,250,79.58,75,12,2,0.4974,4.1778,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588043.59,8896231.866
+4,145,716,Manitê,223,70.98,75,16,1,0.3957,4.4322,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587901.602,8896204.035
+4,146,263,Guaribeiro,236,75.12,75,16,1,0.4432,4.964,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,587879.356,8896195.266
+4,147,160,Caucho,118,37.56,35,12,1,0.1108,0.9308,"Castilla ulei Warb,",Moraceae,,Corte futuro,587856.569,8896198.287
+4,148,160,Caucho,223,70.98,75,13,1,0.3957,3.6012,"Castilla ulei Warb,",Moraceae,,Explorável,587859.757,8896194.572
+4,149,528,Tamarina,138,43.93,45,11,1,0.1515,1.1669,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Corte futuro,587818.27,8896188.417
+4,150,9,Abiurana vermelha,178,56.66,55,14,1,0.2521,2.4709,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,587811.045,8896187.062
+4,152,264,Guariúba,116,36.92,35,14,1,0.1071,1.0494,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,587804.846,8896187.958
+4,154,246,Figueira,302,96.13,95,18,1,0.7258,9.1448,"Ficus maxima Mill,",Moraceae,,Explorável,587752.067,8896185.769
+4,155,160,Caucho,181,57.61,55,14,1,0.2607,2.5549,"Castilla ulei Warb,",Moraceae,,Explorável,587688.371,8896201.086
+4,156,154,Castanharana vermelha,194,61.75,65,18,1,0.2995,3.7737,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587638.015,8896194.09
+4,157,577,Marfim roxo,251,79.9,75,14,2,0.5013,4.9132,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Explorável,587622.843,8896192.718
+4,158,45,Angico,232,73.85,75,15,1,0.4283,4.4973,"Parkia nitida Miq,",Mimosaceae,,Explorável,587608.815,8896181.528
+4,159,467,Pinho cuiabano,190,60.48,65,13,1,0.2873,2.6142,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,587570.528,8896184.392
+4,160,160,Caucho,163,51.88,55,13,1,0.2114,1.924,"Castilla ulei Warb,",Moraceae,,Explorável,587503.268,8896192.655
+4,161,434,Ipê amarelo,137,43.61,45,15,2,0.1494,1.5683,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,587500.664,8896183.523
+4,162,160,Caucho,210,66.85,65,10,1,0.3509,2.4566,"Castilla ulei Warb,",Moraceae,,Explorável,587430.231,8896175.166
+4,163,154,Castanharana vermelha,214,68.12,65,17,1,0.3644,4.3368,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587400.671,8896181.465
+4,164,434,Ipê amarelo,126,40.11,45,15,2,0.1263,1.3265,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,APP,587335.081,8896154.69
+4,167,516,Sumauma preta,261,83.08,85,13,1,0.5421,4.933,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587148.98,8896132.098
+4,168,160,Caucho,245,77.99,75,11,1,0.4777,3.678,"Castilla ulei Warb,",Moraceae,,Explorável,587077.814,8896159.063
+4,169,516,Sumauma preta,193,61.43,65,11,1,0.2964,2.2824,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587059.532,8896148.078
+4,170,168,Cedro rosa,183,58.25,55,12,1,0.2665,2.2386,"Cedrela odorata L,",Meliaceae,,Explorável,587065.252,8896138.666
+4,171,255,Garapeira,254,80.85,85,17,2,0.5134,6.1095,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587058.164,8896160.056
+5,172,170,Cerejeira,193,61.43,65,16,1,0.2964,3.3199,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,587061.217,8896088.331
+5,173,160,Caucho,198,63.03,65,8,1,0.312,1.7471,"Castilla ulei Warb,",Moraceae,,Explorável,587072.538,8896096.868
+5,214,434,Ipê amarelo,124,39.47,35,16,1,0.1224,1.3704,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588799.88,8896227.61
+6,245,434,Ipê amarelo,169,53.79,55,19,1,0.2273,3.0228,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,587143.669,8896044.035
+6,246,467,Pinho cuiabano,173,55.07,55,14,1,0.2382,2.334,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,587136.383,8896040.252
+6,247,168,Cedro rosa,151,48.06,45,14,2,0.1814,1.7782,"Cedrela odorata L,",Meliaceae,,Corte futuro,587055.41,8896042.504
+6,248,192,Cumaru ferro,229,72.89,75,15,1,0.4173,4.3818,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,587028.198,8896031.337
+6,249,170,Cerejeira,162,51.57,55,15,1,0.2088,2.1929,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,587063.452,8896009.222
+7,250,160,Caucho,214,68.12,65,12,3,0.3644,3.0612,"Castilla ulei Warb,",Moraceae,,Porta Semente,587045.754,8896008.133
+7,251,610,Amarelão,182,57.93,55,16,1,0.2636,2.9522,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,587070.764,8895982.122
+7,252,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,587128.004,8895997.963
+7,253,160,Caucho,210,66.85,65,13,1,0.3509,3.1935,"Castilla ulei Warb,",Moraceae,,Explorável,587136.029,8896003.838
+7,254,255,Garapeira,188,59.84,55,17,1,0.2813,3.347,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587140.884,8896005.597
+7,255,160,Caucho,179,56.98,55,13,1,0.255,2.3203,"Castilla ulei Warb,",Moraceae,,Explorável,587155.279,8896008.407
+7,256,528,Tamarina,178,56.66,55,11,1,0.2521,1.9414,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,587170.487,8896009.502
+8,289,571,Castanharana branca,157,49.97,45,16,1,0.1962,2.1969,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588732.771,8896046.58
+8,290,462,Pereiro,282,89.76,85,13,2,0.6328,5.7588,"Aspidosperma macrocarpon Mart,",Apocynaceae,,Rara,588721.928,8896053.215
+8,291,154,Castanharana vermelha,251,79.9,75,20,1,0.5013,7.0188,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588723.94,8896071.719
+8,327,154,Castanharana vermelha,283,90.08,95,17,1,0.6373,7.5842,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587151.889,8895951.323
+8,328,160,Caucho,153,48.7,45,13,3,0.1863,1.6952,"Castilla ulei Warb,",Moraceae,Oco,Corte futuro,587099.925,8895932.495
+8,329,192,Cumaru ferro,190,60.48,65,16,1,0.2873,3.2175,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,587097.881,8895937.996
+9,330,160,Caucho,123,39.15,35,11,2,0.1204,0.927,"Castilla ulei Warb,",Moraceae,,Corte futuro,587084.17,8895875.756
+9,331,528,Tamarina,167,53.16,55,14,2,0.2219,2.1749,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,587101.965,8895871.487
+9,332,160,Caucho,195,62.07,65,13,1,0.3026,2.7536,"Castilla ulei Warb,",Moraceae,,Explorável,587132.432,8895867.956
+9,333,160,Caucho,220,70.03,75,15,1,0.3852,4.0441,"Castilla ulei Warb,",Moraceae,,Explorável,587181.01,8895865.949
+9,371,516,Sumauma preta,295,93.9,95,19,1,0.6925,9.2106,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588726.632,8895996.899
+9,372,382,Mogno/Aguano,116,36.92,35,14,1,0.1071,1.0494,Swietenia macrophylla King,Meliaceae,,Proibida,588734.825,8895999.956
+10,373,571,Castanharana branca,200,63.66,65,18,1,0.3183,4.0107,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588781.526,8895966.503
+10,394,160,Caucho,182,57.93,55,11,1,0.2636,2.0297,"Castilla ulei Warb,",Moraceae,,APP,587090.513,8895827.37
+10,395,246,Figueira,311,98.99,95,14,1,0.7697,7.5429,"Ficus maxima Mill,",Moraceae,,APP,587054.675,8895832.34
+10,396,255,Garapeira,210,66.85,65,17,1,0.3509,4.1761,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,APP,587054.573,8895831.877
+10,397,716,Manitê,295,93.9,95,16,1,0.6925,7.7563,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,587028.507,8895838.9
+11,398,160,Caucho,192,61.12,65,15,1,0.2934,3.0802,"Castilla ulei Warb,",Moraceae,,APP,587030.333,8895803.649
+11,399,516,Sumauma preta,194,61.75,65,15,2,0.2995,3.1447,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,587036.45,8895798.87
+11,400,40,Angelim,195,62.07,65,15,1,0.3026,3.1772,Hymenolobium excelsum Ducke,Fabaceae,,APP,587076.911,8895798.838
+11,401,75,Bálsamo,150,47.75,45,15,1,0.179,1.88,"Myroxylon balsamum (L,) Harms",Fabaceae,,APP,587077.424,8895798.28
+11,402,154,Castanharana vermelha,267,84.99,85,17,1,0.5673,6.7509,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,587098.953,8895803.298
+11,403,160,Caucho,198,63.03,65,15,1,0.312,3.2757,"Castilla ulei Warb,",Moraceae,,APP,587113.458,8895810.233
+11,404,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,APP,587115.819,8895794.555
+11,405,255,Garapeira,295,93.9,95,15,2,0.6925,7.2715,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,APP,587116.756,8895794.599
+11,406,516,Sumauma preta,270,85.94,85,16,1,0.5801,6.4973,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587136.259,8895813.024
+11,407,192,Cumaru ferro,292,92.95,95,16,1,0.6785,7.5993,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,587189.502,8895794.581
+11,410,255,Garapeira,270,85.94,85,18,1,0.5801,7.3095,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,APP,587189.883,8895766.016
+12,430,182,Copaíba,273,86.9,85,12,1,0.5931,4.9819,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588779.567,8895879.257
+12,454,192,Cumaru ferro,254,80.85,85,18,1,0.5134,6.4689,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,587097.315,8895729.499
+12,455,170,Cerejeira,308,98.04,95,17,3,0.7549,8.9834,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,Oco,APP,587079.982,8895746.261
+12,456,192,Cumaru ferro,283,90.08,95,15,1,0.6373,6.6919,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,587076.928,8895733.219
+12,457,160,Caucho,229,72.89,75,18,2,0.4173,5.2581,"Castilla ulei Warb,",Moraceae,,Explorável,587036.629,8895755.152
+13,458,160,Caucho,143,45.52,45,12,1,0.1627,1.3669,"Castilla ulei Warb,",Moraceae,,Corte futuro,587044.644,8895683.767
+13,459,571,Castanharana branca,175,55.7,55,17,1,0.2437,2.9001,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587079.143,8895683.925
+13,460,528,Tamarina,158,50.29,55,12,2,0.1987,1.6687,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,587074.267,8895684.965
+13,461,516,Sumauma preta,280,89.13,85,15,2,0.6239,6.5508,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587081.904,8895689.915
+13,462,160,Caucho,220,70.03,75,14,2,0.3852,3.7745,"Castilla ulei Warb,",Moraceae,,Explorável,587085.15,8895672.038
+13,463,571,Castanharana branca,182,57.93,55,15,1,0.2636,2.7677,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587083.386,8895668.187
+13,464,536,Tauari,187,59.52,55,20,1,0.2783,3.8958,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,587097.119,8895697.793
+13,465,192,Cumaru ferro,273,86.9,85,17,1,0.5931,7.0577,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,587132.857,8895716.364
+13,466,246,Figueira,270,85.94,85,15,1,0.5801,6.0913,"Ficus maxima Mill,",Moraceae,,APP,587163.042,8895710.582
+13,467,610,Amarelão,148,47.11,45,16,1,0.1743,1.9522,Aspidosperma williamsii Duarte,Apocynaceae,,APP,587161.405,8895717.751
+13,468,154,Castanharana vermelha,251,79.9,75,18,1,0.5013,6.317,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,587192.933,8895685.783
+14,496,516,Sumauma preta,183,58.25,55,15,1,0.2665,2.7982,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588843.988,8895785.174
+14,497,255,Garapeira,305,97.08,95,14,1,0.7403,7.2546,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588816.924,8895785.982
+14,526,154,Castanharana vermelha,195,62.07,65,17,1,0.3026,3.6009,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587201.045,8895655.113
+14,527,182,Copaíba,330,105.04,105,16,1,0.8666,9.7059,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,587169.905,8895657.255
+14,528,716,Manitê,223,70.98,75,14,1,0.3957,3.8782,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587144.95,8895660.133
+14,529,571,Castanharana branca,130,41.38,45,17,1,0.1345,1.6004,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,587144.671,8895662.793
+14,530,516,Sumauma preta,220,70.03,75,15,1,0.3852,4.0441,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587101.247,8895630.329
+14,531,160,Caucho,173,55.07,55,12,1,0.2382,2.0006,"Castilla ulei Warb,",Moraceae,,Explorável,587053.827,8895643.873
+15,532,434,Ipê amarelo,143,45.52,45,16,1,0.1627,1.8226,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,587062.989,8895594.952
+15,533,160,Caucho,158,50.29,55,13,1,0.1987,1.8078,"Castilla ulei Warb,",Moraceae,,Explorável,587069.45,8895607.689
+15,534,9,Abiurana vermelha,188,59.84,55,15,1,0.2813,2.9532,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,587068.917,8895607.505
+15,568,513,Sumauma branca,410,130.51,135,18,1,1.3377,16.855,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588762.742,8895679.549
+15,569,516,Sumauma preta,251,79.9,75,14,2,0.5013,4.9132,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588786.55,8895677.47
+15,570,511,Sucupira amarela,198,63.03,65,15,1,0.312,3.2757,"Diplotropis purpurea (Rich,) Amshoff",Fabaceae,,Rara,588790.69,8895683.317
+15,571,322,Jutaí,146,46.47,45,16,1,0.1696,1.8998,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Corte futuro,588798.431,8895677.913
+15,572,2,Abiu,158,50.29,55,15,2,0.1987,2.0859,"Pouteria caimito (Ruiz & Pav,) Radlk,",Sapotaceae,,Rara,588798.003,8895679.546
+16,573,160,Caucho,141,44.88,45,10,2,0.1582,1.1075,"Castilla ulei Warb,",Moraceae,,Corte futuro,588835.174,8895645.486
+16,574,45,Angico,254,80.85,85,17,3,0.5134,6.1095,"Parkia nitida Miq,",Mimosaceae,Oco,Porta Semente,588841.037,8895638.243
+16,575,160,Caucho,172,54.75,55,13,2,0.2354,2.1423,"Castilla ulei Warb,",Moraceae,,Porta Semente,588771.005,8895625.013
+16,576,255,Garapeira,198,63.03,65,16,1,0.312,3.4941,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588765.293,8895666.984
+16,608,160,Caucho,226,71.94,75,14,1,0.4064,3.9832,"Castilla ulei Warb,",Moraceae,,Explorável,587190.889,8895531.296
+16,609,9,Abiurana vermelha,253,80.53,85,20,1,0.5094,7.1311,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,587178.868,8895533.401
+16,610,160,Caucho,220,70.03,75,14,3,0.3852,3.7745,"Castilla ulei Warb,",Moraceae,Oco,Porta Semente,587171.967,8895563.65
+16,611,192,Cumaru ferro,283,90.08,95,16,1,0.6373,7.1381,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,587086.477,8895517.107
+16,612,394,Mulateiro,239,76.08,75,16,1,0.4546,5.091,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Explorável,587063.193,8895538.526
+17,613,160,Caucho,222,70.66,75,12,1,0.3922,3.2944,"Castilla ulei Warb,",Moraceae,,Explorável,587106.698,8895505.418
+17,614,160,Caucho,145,46.15,45,13,1,0.1673,1.5225,"Castilla ulei Warb,",Moraceae,,Corte futuro,587174.503,8895495.124
+17,615,168,Cedro rosa,170,54.11,55,11,1,0.23,1.7708,"Cedrela odorata L,",Meliaceae,,Porta Semente,587182.716,8895479.441
+17,616,182,Copaíba,339,107.91,105,17,1,0.9145,10.8827,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,587172.288,8895517.661
+17,617,45,Angico,236,75.12,75,14,2,0.4432,4.3435,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,587166.1,8895526.768
+17,618,394,Mulateiro,198,63.03,65,15,2,0.312,3.2757,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,587166.514,8895527.026
+17,642,571,Castanharana branca,239,76.08,75,18,1,0.4546,5.7274,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588786.935,8895602.22
+17,643,516,Sumauma preta,198,63.03,65,14,2,0.312,3.0574,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588841.67,8895600.491
+18,674,168,Cedro rosa,180,57.3,55,11,2,0.2578,1.9853,"Cedrela odorata L,",Meliaceae,,Porta Semente,587175.554,8895427.816
+18,675,170,Cerejeira,163,51.88,55,15,2,0.2114,2.22,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,587165.394,8895439.722
+18,676,246,Figueira,141,44.88,45,12,2,0.1582,1.3289,"Ficus maxima Mill,",Moraceae,,Corte futuro,587159.175,8895440.006
+18,677,374,Marupá,128,40.74,45,16,1,0.1304,1.4603,"Simarouba amara Aubl,",Simaroubaceae,,Corte futuro,587092.786,8895443.317
+19,678,571,Castanharana branca,223,70.98,75,16,1,0.3957,4.4322,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587133.78,8895401.604
+19,716,516,Sumauma preta,195,62.07,65,14,1,0.3026,2.9654,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588805.305,8895506.517
+20,717,255,Garapeira,220,70.03,75,16,1,0.3852,4.3137,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588852.016,8895454.992
+20,751,255,Garapeira,251,79.9,75,16,1,0.5013,5.6151,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,587216.924,8895347.389
+20,752,716,Manitê,226,71.94,75,17,1,0.4064,4.8368,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587205.315,8895333.829
+20,753,2,Abiu,565,179.85,175,15,1,2.5403,26.6733,"Pouteria caimito (Ruiz & Pav,) Radlk,",Sapotaceae,,Rara,587209.47,8895338.509
+20,754,516,Sumauma preta,534,169.98,165,18,1,2.2692,28.5919,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587185.838,8895330.215
+20,755,640,Imbiridiba amarela,223,70.98,75,16,1,0.3957,4.4322,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,587168.419,8895341.472
+20,756,182,Copaíba,297,94.54,95,15,1,0.7019,7.3704,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,587127.912,8895348.965
+20,757,246,Figueira,223,70.98,75,16,1,0.3957,4.4322,"Ficus maxima Mill,",Moraceae,,APP,587097.387,8895343.246
+20,758,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,APP,587099.201,8895341.37
+20,759,467,Pinho cuiabano,204,64.94,65,14,1,0.3312,3.2455,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,587075.384,8895336.051
+21,760,154,Castanharana vermelha,158,50.29,55,17,1,0.1987,2.364,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,587078.433,8895308.786
+21,761,571,Castanharana branca,163,51.88,55,18,1,0.2114,2.664,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,587080.281,8895297.929
+21,762,513,Sumauma branca,660,210.08,215,18,1,3.4664,43.6766,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,APP,587141.121,8895298.663
+21,763,157,Catuaba,171,54.43,55,15,1,0.2327,2.4433,"Qualea tessmannii Mildbr,",Vochysiaceae,,APP,587157.659,8895302.664
+21,764,610,Amarelão,100,31.83,35,16,1,0.0796,0.8913,Aspidosperma williamsii Duarte,Apocynaceae,,APP,587232.394,8895324.264
+21,792,246,Figueira,137,43.61,45,15,2,0.1494,1.5683,"Ficus maxima Mill,",Moraceae,,Corte futuro,588852.285,8895377.638
+22,793,246,Figueira,153,48.7,45,14,1,0.1863,1.8256,"Ficus maxima Mill,",Moraceae,,Corte futuro,588863.41,8895347.044
+22,794,516,Sumauma preta,208,66.21,65,12,1,0.3443,2.892,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588835.101,8895372.101
+22,795,511,Sucupira amarela,238,75.76,75,17,1,0.4508,5.364,"Diplotropis purpurea (Rich,) Amshoff",Fabaceae,,Rara,588799.611,8895379.89
+22,796,157,Catuaba,208,66.21,65,14,1,0.3443,3.374,"Qualea tessmannii Mildbr,",Vochysiaceae,,Explorável,588793.781,8895377.939
+22,797,61,Aroeira,120,38.2,35,12,1,0.1146,0.9626,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588795.319,8895371.818
+22,833,45,Angico,286,91.04,95,18,1,0.6509,8.2015,"Parkia nitida Miq,",Mimosaceae,,APP,587221.759,8895276.123
+22,834,571,Castanharana branca,179,56.98,55,16,1,0.255,2.8557,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,587236.345,8895263.26
+22,835,168,Cedro rosa,185,58.89,55,15,1,0.2724,2.8597,"Cedrela odorata L,",Meliaceae,,APP,587213.126,8895262.084
+22,836,154,Castanharana vermelha,152,48.38,45,16,1,0.1839,2.0592,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,587200.549,8895262.235
+22,837,157,Catuaba,173,55.07,55,14,1,0.2382,2.334,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,587177.651,8895234.346
+22,838,640,Imbiridiba amarela,192,61.12,65,15,3,0.2934,3.0802,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,Oco,Porta Semente,587163.918,8895231.348
+22,839,516,Sumauma preta,260,82.76,85,15,1,0.5379,5.6484,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,587111.25,8895243.895
+23,840,369,Marfim,184,58.57,55,16,1,0.2694,3.0175,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,587087.938,8895196.544
+23,841,382,Mogno/Aguano,192,61.12,65,14,2,0.2934,2.8749,Swietenia macrophylla King,Meliaceae,,Proibida,587082.511,8895178.428
+23,842,513,Sumauma branca,222,70.66,75,18,1,0.3922,4.9416,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,587108.377,8895206.615
+23,843,571,Castanharana branca,188,59.84,55,17,1,0.2813,3.347,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587138.078,8895194.866
+23,844,571,Castanharana branca,198,63.03,65,20,1,0.312,4.3677,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587166.037,8895172.852
+23,845,716,Manitê,192,61.12,65,13,1,0.2934,2.6695,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587171.295,8895177.807
+23,846,2,Abiu,310,98.68,95,17,1,0.7647,9.1004,"Pouteria caimito (Ruiz & Pav,) Radlk,",Sapotaceae,,Rara,587212.51,8895189.719
+23,847,640,Imbiridiba amarela,207,65.89,65,12,3,0.341,2.8642,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,Oco,Porta Semente,587241.62,8895184.097
+24,872,516,Sumauma preta,100,31.83,35,11,1,0.0796,0.6127,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Corte futuro,588832.275,8895254.011
+25,899,61,Aroeira,182,57.93,55,17,1,0.2636,3.1367,Astronium lecointei Ducke,Anacardiaceae,,Explorável,587114.344,8895101.639
+25,900,610,Amarelão,185,58.89,55,15,1,0.2724,2.8597,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,587135.377,8895099.224
+25,901,255,Garapeira,163,51.88,55,14,2,0.2114,2.072,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,587135.315,8895085.035
+25,930,394,Mulateiro,182,57.93,55,13,2,0.2636,2.3987,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,588808.201,8895219.185
+25,931,263,Guaribeiro,173,55.07,55,17,1,0.2382,2.8342,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588886.836,8895219.233
+26,932,304,Jatobá,271,86.26,85,18,1,0.5844,7.3638,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588898.372,8895187.961
+26,933,413,Orelhinha,208,66.21,65,15,2,0.3443,3.615,"Enterolobium schomburgkii Mart, ex, Benth,",Mimosaceae,,Rara,588851.42,8895160.021
+26,934,168,Cedro rosa,117,37.24,35,11,1,0.1089,0.8388,"Cedrela odorata L,",Meliaceae,,Corte futuro,588848.863,8895162.604
+26,957,160,Caucho,130,41.38,45,14,2,0.1345,1.318,"Castilla ulei Warb,",Moraceae,,Corte futuro,587258.862,8895064.857
+26,958,785,Xixá vermelho,141,44.88,45,11,2,0.1582,1.2182,"Sterculia apetala Karst,",Malvaceae,,Rara,587219.253,8895059.781
+26,959,154,Castanharana vermelha,195,62.07,65,19,1,0.3026,4.0245,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587181.73,8895062.587
+26,960,160,Caucho,147,46.79,45,13,2,0.172,1.5648,"Castilla ulei Warb,",Moraceae,,Corte futuro,587146.902,8895051.41
+27,961,168,Cedro rosa,150,47.75,45,12,1,0.179,1.504,"Cedrela odorata L,",Meliaceae,,Corte futuro,587117.809,8895010.792
+27,962,374,Marupá,195,62.07,65,15,1,0.3026,3.1772,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,587160.323,8895016.464
+27,963,160,Caucho,185,58.89,55,11,1,0.2724,2.0971,"Castilla ulei Warb,",Moraceae,,Explorável,587167.159,8895024.548
+27,964,571,Castanharana branca,140,44.56,45,17,1,0.156,1.8561,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,587234.869,8895009.519
+27,965,157,Catuaba,214,68.12,65,14,2,0.3644,3.5714,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,587239.187,8895020.825
+27,1002,516,Sumauma preta,124,39.47,35,10,2,0.1224,0.8565,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Corte futuro,588798.62,8895126.072
+27,1003,516,Sumauma preta,179,56.98,55,13,2,0.255,2.3203,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588869.248,8895116.76
+28,1004,516,Sumauma preta,168,53.48,55,10,3,0.2246,1.5722,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,Oco,Porta Semente,588808.968,8895060.056
+28,1036,154,Castanharana vermelha,214,68.12,65,18,1,0.3644,4.5919,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587216.725,8894963.712
+28,1037,434,Ipê amarelo,170,54.11,55,17,1,0.23,2.7367,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,587191.337,8894950.909
+28,1038,154,Castanharana vermelha,270,85.94,85,16,1,0.5801,6.4973,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587115.87,8894941.721
+29,1039,154,Castanharana vermelha,232,73.85,75,15,2,0.4283,4.4973,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587094.412,8894899.279
+29,1040,264,Guariúba,185,58.89,55,13,1,0.2724,2.4784,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,587135.772,8894901.143
+29,1041,61,Aroeira,110,35.01,35,16,1,0.0963,1.0784,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,587160.646,8894898.812
+29,1042,182,Copaíba,360,114.59,115,13,2,1.0313,9.385,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,587166.907,8894877.851
+29,1043,640,Imbiridiba amarela,198,63.03,65,12,1,0.312,2.6206,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,587195.255,8894880.257
+29,1045,571,Castanharana branca,146,46.47,45,16,1,0.1696,1.8998,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,587389.857,8894913.978
+29,1046,394,Mulateiro,228,72.57,75,15,2,0.4137,4.3436,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,587470.646,8894924.21
+29,1047,516,Sumauma preta,201,63.98,65,14,2,0.3215,3.1507,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587504.934,8894936.157
+29,1048,513,Sumauma branca,320,101.86,105,20,1,0.8149,11.4082,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,587598.615,8894928.071
+29,1049,513,Sumauma branca,283,90.08,95,18,1,0.6373,8.0303,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,587656.431,8894936.013
+29,1050,160,Caucho,144,45.84,45,15,1,0.165,1.7326,"Castilla ulei Warb,",Moraceae,,Corte futuro,587661.264,8894932.507
+29,1054,467,Pinho cuiabano,171,54.43,55,17,1,0.2327,2.769,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,587865.074,8894944.487
+29,1055,571,Castanharana branca,177,56.34,55,15,1,0.2493,2.6177,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587996.102,8894944.456
+29,1056,304,Jatobá,229,72.89,75,18,1,0.4173,5.2581,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588030.033,8894960.426
+29,1057,246,Figueira,270,85.94,85,17,1,0.5801,6.9034,"Ficus maxima Mill,",Moraceae,,Explorável,588073.948,8894975.464
+29,1058,528,Tamarina,197,62.71,65,16,1,0.3088,3.4589,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588083.91,8894961.871
+29,1060,307,Jequitibá,243,77.35,75,16,1,0.4699,5.2628,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,588129.761,8894968.312
+29,1061,536,Tauari,258,82.12,85,18,2,0.5297,6.6742,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,588167.051,8894971.706
+29,1064,467,Pinho cuiabano,226,71.94,75,15,1,0.4064,4.2677,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588386.3,8895000.153
+29,1065,467,Pinho cuiabano,226,71.94,75,14,1,0.4064,3.9832,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588398.553,8895002.857
+29,1066,45,Angico,229,72.89,75,16,1,0.4173,4.6739,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,588421.945,8894973.002
+29,1067,192,Cumaru ferro,263,83.72,85,17,1,0.5504,6.5501,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588715.977,8895023.369
+29,1068,255,Garapeira,152,48.38,45,17,1,0.1839,2.1879,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Corte futuro,588783.108,8895027.153
+29,1069,716,Manitê,259,82.44,85,15,1,0.5338,5.605,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588815.243,8895007.388
+29,1070,2,Abiu,314,99.95,95,12,1,0.7846,6.5907,"Pouteria caimito (Ruiz & Pav,) Radlk,",Sapotaceae,,Rara,588897.355,8895009.735
+30,1071,160,Caucho,251,79.9,75,16,1,0.5013,5.6151,"Castilla ulei Warb,",Moraceae,,Explorável,588868.84,8894943.528
+30,1072,182,Copaíba,306,97.4,95,16,1,0.7451,8.3455,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588861.687,8894937.604
+30,1073,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588548.497,8894942.098
+30,1074,64,Açacu,443,141.01,145,16,1,1.5617,17.491,"Hura crepitans L,",Euphorbiaceae,,APP,588446.368,8894918.213
+30,1075,64,Açacu,295,93.9,95,12,1,0.6925,5.8172,"Hura crepitans L,",Euphorbiaceae,,APP,588380.012,8894923.177
+30,1076,64,Açacu,355,113,115,11,1,1.0029,7.7221,"Hura crepitans L,",Euphorbiaceae,,APP,588357.084,8894924.577
+30,1077,516,Sumauma preta,289,91.99,95,17,1,0.6646,7.9092,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588322.004,8894938.287
+30,1078,182,Copaíba,298,94.86,95,18,1,0.7067,8.9042,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588220.279,8894906.708
+30,1079,348,Maçaranduba,160,50.93,55,15,1,0.2037,2.139,"Manilkara bidentata (A, DC,) subsp, surinamensis (Miq,) T, D, Penn",Sapotaceae,,Rara,588206.243,8894899.67
+30,1080,64,Açacu,314,99.95,95,13,1,0.7846,7.1399,"Hura crepitans L,",Euphorbiaceae,,Explorável,588069.947,8894913.562
+30,1081,536,Tauari,201,63.98,65,16,1,0.3215,3.6008,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,588065.08,8894910.552
+30,1082,160,Caucho,195,62.07,65,17,1,0.3026,3.6009,"Castilla ulei Warb,",Moraceae,,Explorável,588004.623,8894923.424
+30,1083,170,Cerejeira,197,62.71,65,10,3,0.3088,2.1618,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,Oco,Porta Semente,587972.804,8894906.671
+30,1084,516,Sumauma preta,229,72.89,75,15,1,0.4173,4.3818,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587948.116,8894883.347
+30,1085,516,Sumauma preta,201,63.98,65,16,1,0.3215,3.6008,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587872.595,8894904.959
+30,1086,640,Imbiridiba amarela,188,59.84,55,17,1,0.2813,3.347,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,587806.508,8894899.818
+30,1087,255,Garapeira,251,79.9,75,13,3,0.5013,4.5622,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,Oco,Porta Semente,587790.936,8894903.702
+30,1088,45,Angico,204,64.94,65,12,1,0.3312,2.7818,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,587774.785,8894900.034
+30,1089,374,Marupá,170,54.11,55,16,1,0.23,2.5758,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,587629.832,8894901.025
+30,1090,154,Castanharana vermelha,207,65.89,65,17,2,0.341,4.0577,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,587592.23,8894882.496
+30,1091,160,Caucho,228,72.57,75,12,1,0.4137,3.4749,"Castilla ulei Warb,",Moraceae,,Explorável,587526.53,8894859.123
+30,1092,571,Castanharana branca,235,74.8,75,10,1,0.4395,3.0763,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587519.694,8894873.718
+30,1093,516,Sumauma preta,192,61.12,65,11,1,0.2934,2.2588,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587426.527,8894870.125
+30,1094,516,Sumauma preta,231,73.53,75,14,2,0.4246,4.1614,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587406.516,8894861.832
+30,1095,467,Pinho cuiabano,214,68.12,65,13,1,0.3644,3.3163,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,587390.2,8894854.67
+30,1096,182,Copaíba,160,50.93,55,17,2,0.2037,2.4242,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,587249.4,8894828.938
+30,1097,154,Castanharana vermelha,188,59.84,55,17,1,0.2813,3.347,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587199.435,8894861.192
+30,1098,516,Sumauma preta,239,76.08,75,16,1,0.4546,5.091,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,587180.712,8894861.265
+30,1099,168,Cedro rosa,150,47.75,45,13,2,0.179,1.6293,"Cedrela odorata L,",Meliaceae,,Corte futuro,587156.9,8894861.647
+30,1100,154,Castanharana vermelha,223,70.98,75,17,1,0.3957,4.7092,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587139.863,8894856.155
+30,1101,716,Manitê,192,61.12,65,16,1,0.2934,3.2856,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587122.822,8894845.278
+31,1102,168,Cedro rosa,251,79.9,75,14,1,0.5013,4.9132,"Cedrela odorata L,",Meliaceae,,Explorável,587147.844,8894763.62
+31,1103,182,Copaíba,225,71.62,75,17,1,0.4029,4.794,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,587144.746,8894762.84
+31,1104,322,Jutaí,210,66.85,65,16,1,0.3509,3.9305,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,587144.303,8894762.303
+31,1105,528,Tamarina,167,53.16,55,12,1,0.2219,1.8642,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,587143.918,8894762.304
+31,1106,61,Aroeira,136,43.29,45,15,1,0.1472,1.5455,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,587135.824,8894800.527
+31,1107,264,Guariúba,135,42.97,45,13,1,0.145,1.3198,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,587145.461,8894796.769
+31,1108,304,Jatobá,223,70.98,75,16,1,0.3957,4.4322,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,587150.65,8894784.3
+31,1109,154,Castanharana vermelha,229,72.89,75,17,1,0.4173,4.966,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,587205.485,8894805.957
+31,1110,160,Caucho,276,87.85,85,14,1,0.6062,5.9407,"Castilla ulei Warb,",Moraceae,,Explorável,587215.818,8894804.959
+31,1111,640,Imbiridiba amarela,220,70.03,75,16,1,0.3852,4.3137,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,587217.864,8894822.703
+31,1112,61,Aroeira,206,65.57,65,18,1,0.3377,4.255,Astronium lecointei Ducke,Anacardiaceae,,Explorável,587233.68,8894798.382
+31,1113,192,Cumaru ferro,162,51.57,55,14,1,0.2088,2.0467,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,587591.818,8894822.411
+31,1114,610,Amarelão,189,60.16,65,16,3,0.2843,3.1837,Aspidosperma williamsii Duarte,Apocynaceae,Oco,Porta Semente,587677.264,8894843.688
+31,1115,528,Tamarina,197,62.71,65,13,1,0.3088,2.8104,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,587692.932,8894848.951
+31,1116,467,Pinho cuiabano,132,42.02,45,15,1,0.1387,1.4559,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Corte futuro,587742.907,8894840.109
+31,1117,61,Aroeira,140,44.56,45,17,1,0.156,1.8561,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,587779.408,8894817.405
+31,1118,716,Manitê,314,99.95,95,16,1,0.7846,8.7875,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,587897.182,8894853.071
+31,1119,64,Açacu,145,46.15,45,16,1,0.1673,1.8739,"Hura crepitans L,",Euphorbiaceae,,Corte futuro,587948.099,8894834.735
+31,1120,571,Castanharana branca,197,62.71,65,17,1,0.3088,3.6751,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,587957.34,8894841.803
+31,1121,434,Ipê amarelo,147,46.79,45,17,1,0.172,2.0463,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588246.605,8894878.264
+31,1122,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588419.736,8894877.359
+31,1123,192,Cumaru ferro,289,91.99,95,18,1,0.6646,8.3745,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,588446.135,8894868.166
+31,1124,61,Aroeira,188,59.84,55,19,1,0.2813,3.7407,Astronium lecointei Ducke,Anacardiaceae,,APP,588444.393,8894865.556
+31,1125,467,Pinho cuiabano,173,55.07,55,15,1,0.2382,2.5008,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588461.099,8894867.137
+31,1126,467,Pinho cuiabano,206,65.57,65,13,1,0.3377,3.073,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588486.419,8894870.829
+31,1127,255,Garapeira,223,70.98,75,17,1,0.3957,4.7092,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588742.11,8894927.823
+31,1128,516,Sumauma preta,182,57.93,55,16,1,0.2636,2.9522,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588846.419,8894926.668
+31,1129,610,Amarelão,174,55.39,55,17,1,0.2409,2.8671,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588872.772,8894920.839
+31,1130,382,Mogno/Aguano,185,58.89,55,15,2,0.2724,2.8597,Swietenia macrophylla King,Meliaceae,,Proibida,588885.715,8894916.571
+31,1131,246,Figueira,259,82.44,85,10,3,0.5338,3.7367,"Ficus maxima Mill,",Moraceae,Oco,Porta Semente,588909.508,8894912.018
+32,1132,577,Marfim roxo,173,55.07,55,12,2,0.2382,2.0006,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588844.925,8894864.408
+32,1133,154,Castanharana vermelha,264,84.03,85,17,1,0.5546,6.6,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588851.304,8894835.994
+32,1134,571,Castanharana branca,168,53.48,55,15,1,0.2246,2.3583,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,588817.82,8894859.766
+32,1135,369,Marfim,146,46.47,45,13,1,0.1696,1.5436,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,588809.049,8894853.374
+32,1136,75,Bálsamo,127,40.43,45,16,1,0.1284,1.4375,"Myroxylon balsamum (L,) Harms",Fabaceae,,Rara,588798.179,8894852.678
+32,1137,154,Castanharana vermelha,198,63.03,65,17,2,0.312,3.7125,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,588794.376,8894830.332
+32,1138,434,Ipê amarelo,110,35.01,35,14,1,0.0963,0.9436,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588773.788,8894841.773
+32,1139,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588651.572,8894857.653
+32,1140,160,Caucho,139,44.25,45,13,2,0.1538,1.3991,"Castilla ulei Warb,",Moraceae,,APP,588634.662,8894832.577
+32,1141,64,Açacu,377,120,125,15,1,1.131,11.8758,"Hura crepitans L,",Euphorbiaceae,,APP,588510.938,8894832.704
+32,1142,640,Imbiridiba amarela,173,55.07,55,13,2,0.2382,2.1673,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588498.004,8894825.887
+32,1143,716,Manitê,243,77.35,75,14,2,0.4699,4.605,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588435.936,8894822.35
+32,1144,513,Sumauma branca,471,149.92,145,20,1,1.7654,24.715,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588413.241,8894817.474
+32,1145,716,Manitê,171,54.43,55,14,1,0.2327,2.2804,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588397.591,8894815.668
+33,1146,322,Jutaí,118,37.56,35,16,2,0.1108,1.241,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Corte futuro,588392.557,8894771.128
+33,1147,467,Pinho cuiabano,130,41.38,45,15,1,0.1345,1.4121,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Corte futuro,588420.72,8894787.585
+33,1148,154,Castanharana vermelha,210,66.85,65,17,1,0.3509,4.1761,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588446.491,8894791.794
+33,1149,716,Manitê,195,62.07,65,14,1,0.3026,2.9654,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588436.273,8894798.678
+33,1150,716,Manitê,287,91.35,95,15,1,0.6555,6.8825,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588475.242,8894785.959
+33,1151,246,Figueira,223,70.98,75,13,1,0.3957,3.6012,"Ficus maxima Mill,",Moraceae,,Explorável,588484.581,8894776.853
+33,1152,61,Aroeira,140,44.56,45,16,1,0.156,1.7469,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588483.51,8894782.334
+33,1153,64,Açacu,330,105.04,105,14,1,0.8666,8.4927,"Hura crepitans L,",Euphorbiaceae,,Explorável,588512.062,8894785.35
+33,1154,640,Imbiridiba amarela,226,71.94,75,16,3,0.4064,4.5522,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,Oco,APP,588565.682,8894801.846
+33,1155,192,Cumaru ferro,305,97.08,95,17,1,0.7403,8.8092,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,588618.193,8894811.699
+33,1156,513,Sumauma branca,333,106,105,18,1,0.8824,11.1186,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588643.108,8894792.564
+33,1157,168,Cedro rosa,251,79.9,75,13,1,0.5013,4.5622,"Cedrela odorata L,",Meliaceae,,Explorável,588679.093,8894810.725
+33,1158,322,Jutaí,197,62.71,65,17,2,0.3088,3.6751,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588746.678,8894797.426
+33,1159,304,Jatobá,210,66.85,65,21,1,0.3509,5.1588,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588744.894,8894804.502
+33,1160,182,Copaíba,275,87.54,85,15,1,0.6018,6.3189,Copaifera multijuga Hayne,Caesalpiniaceae,,APP,588795.37,8894805.101
+33,1161,160,Caucho,150,47.75,45,13,1,0.179,1.6293,"Castilla ulei Warb,",Moraceae,,APP,588794.004,8894802.334
+33,1162,157,Catuaba,182,57.93,55,15,2,0.2636,2.7677,"Qualea tessmannii Mildbr,",Vochysiaceae,,APP,588805.948,8894795.131
+33,1163,571,Castanharana branca,220,70.03,75,16,1,0.3852,4.3137,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588833.55,8894830.403
+33,1164,640,Imbiridiba amarela,129,41.06,45,12,2,0.1324,1.1124,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588906.189,8894840.049
+34,1165,516,Sumauma preta,181,57.61,55,13,2,0.2607,2.3724,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588887.242,8894756.217
+34,1166,64,Açacu,140,44.56,45,14,1,0.156,1.5285,"Hura crepitans L,",Euphorbiaceae,,Corte futuro,588727.149,8894753.858
+34,1167,154,Castanharana vermelha,192,61.12,65,17,2,0.2934,3.4909,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,588704.768,8894749.714
+34,1168,640,Imbiridiba amarela,214,68.12,65,13,2,0.3644,3.3163,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588692.501,8894737.538
+34,1169,513,Sumauma branca,189,60.16,65,14,1,0.2843,2.7857,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,588637.913,8894738.636
+34,1170,154,Castanharana vermelha,226,71.94,75,20,1,0.4064,5.6903,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,588488.29,8894738.094
+34,1171,154,Castanharana vermelha,204,64.94,65,18,1,0.3312,4.1727,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,588477.385,8894742.143
+35,1172,64,Açacu,276,87.85,85,13,1,0.6062,5.5163,"Hura crepitans L,",Euphorbiaceae,,Explorável,588458.502,8894706.849
+35,1173,610,Amarelão,152,48.38,45,17,1,0.1839,2.1879,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588469.394,8894708.824
+35,1174,192,Cumaru ferro,308,98.04,95,14,1,0.7549,7.3981,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,588598.789,8894695.087
+35,1175,64,Açacu,358,113.95,115,16,1,1.0199,11.4228,"Hura crepitans L,",Euphorbiaceae,,APP,588608.098,8894684.934
+35,1176,348,Maçaranduba,163,51.88,55,13,1,0.2114,1.924,"Manilkara bidentata (A, DC,) subsp, surinamensis (Miq,) T, D, Penn",Sapotaceae,,Rara,588653.6,8894702.738
+35,1177,64,Açacu,160,50.93,55,14,1,0.2037,1.9964,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588667.176,8894694.419
+35,1178,61,Aroeira,159,50.61,55,19,1,0.2012,2.6757,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588696.99,8894694.911
+35,1179,516,Sumauma preta,188,59.84,55,13,2,0.2813,2.5595,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588706.003,8894680.199
+35,1180,61,Aroeira,128,40.74,45,15,2,0.1304,1.369,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588824.59,8894713.255
+35,1181,434,Ipê amarelo,196,62.39,65,19,1,0.3057,4.0659,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,588907.66,8894709.576
+35,1182,640,Imbiridiba amarela,159,50.61,55,14,2,0.2012,1.9716,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Porta Semente,588914.917,8894720.504
+35,1183,467,Pinho cuiabano,197,62.71,65,16,2,0.3088,3.4589,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588920.753,8894721.221
+36,1184,246,Figueira,185,58.89,55,13,1,0.2724,2.4784,"Ficus maxima Mill,",Moraceae,,Porta Semente,588954.65,8894659.829
+36,1185,516,Sumauma preta,179,56.98,55,15,2,0.255,2.6772,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588862.758,8894647.876
+36,1186,64,Açacu,159,50.61,55,11,2,0.2012,1.5491,"Hura crepitans L,",Euphorbiaceae,,APP,588789.011,8894643.516
+36,1187,640,Imbiridiba amarela,220,70.03,75,13,3,0.3852,3.5049,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,Oco,APP,588711.538,8894666.83
+36,1188,394,Mulateiro,143,45.52,45,14,2,0.1627,1.5947,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,APP,588692.983,8894660.536
+36,1189,394,Mulateiro,182,57.93,55,15,1,0.2636,2.7677,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,APP,588688.319,8894650.668
+36,1190,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588487.937,8894676.581
+36,1191,462,Pereiro,192,61.12,65,17,1,0.2934,3.4909,"Aspidosperma macrocarpon Mart,",Apocynaceae,,Rara,588467.386,8894669.449
+37,1192,255,Garapeira,201,63.98,65,16,2,0.3215,3.6008,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,588469.009,8894596.503
+37,1193,182,Copaíba,303,96.45,95,15,1,0.7306,7.6712,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588464.469,8894614.773
+37,1194,640,Imbiridiba amarela,176,56.02,55,14,1,0.2465,2.4157,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588501.331,8894620.012
+37,1195,154,Castanharana vermelha,229,72.89,75,19,1,0.4173,5.5503,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588500.576,8894622.906
+37,1196,64,Açacu,275,87.54,85,12,2,0.6018,5.0552,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588501.022,8894576.35
+37,1197,264,Guariúba,180,57.3,55,13,1,0.2578,2.3463,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588567.547,8894576.475
+37,1198,170,Cerejeira,197,62.71,65,10,1,0.3088,2.1618,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,APP,588581.887,8894587.561
+37,1199,577,Marfim roxo,197,62.71,65,10,1,0.3088,2.1618,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,APP,588626.372,8894580.297
+37,1200,516,Sumauma preta,251,79.9,75,14,2,0.5013,4.9132,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588645.144,8894600.169
+37,1201,516,Sumauma preta,324,103.13,105,14,2,0.8354,8.1867,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588771.975,8894605.029
+37,1202,160,Caucho,110,35.01,35,11,1,0.0963,0.7414,"Castilla ulei Warb,",Moraceae,,APP,588823.88,8894607.571
+37,1203,528,Tamarina,163,51.88,55,15,1,0.2114,2.22,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,APP,588856.835,8894607.75
+37,1204,322,Jutaí,146,46.47,45,16,1,0.1696,1.8998,Hymenaea oblongifolia Huber,Caesalpiniaceae,,APP,588893.894,8894618.243
+38,1205,64,Açacu,360,114.59,115,15,1,1.0313,10.8289,"Hura crepitans L,",Euphorbiaceae,,APP,588876.187,8894594.393
+38,1206,467,Pinho cuiabano,207,65.89,65,16,2,0.341,3.819,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588735.485,8894564.088
+38,1207,160,Caucho,137,43.61,45,10,1,0.1494,1.0455,"Castilla ulei Warb,",Moraceae,,Corte futuro,588628.354,8894537.918
+38,1208,263,Guaribeiro,128,40.74,45,17,1,0.1304,1.5515,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Corte futuro,588560.859,8894561.745
+38,1209,192,Cumaru ferro,314,99.95,95,18,1,0.7846,9.886,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588525.888,8894555.816
+38,1210,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588470.366,8894524.078
+39,1211,516,Sumauma preta,258,82.12,85,16,2,0.5297,5.9326,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588426.186,8894483.137
+39,1212,64,Açacu,317,100.9,105,14,1,0.7997,7.8367,"Hura crepitans L,",Euphorbiaceae,,Explorável,588438.585,8894485.702
+39,1213,160,Caucho,141,44.88,45,13,1,0.1582,1.4397,"Castilla ulei Warb,",Moraceae,,Corte futuro,588460.845,8894492.775
+39,1214,716,Manitê,232,73.85,75,16,1,0.4283,4.7972,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588480.166,8894500.642
+39,1215,571,Castanharana branca,346,110.14,115,21,1,0.9527,14.0042,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588523.262,8894489.193
+39,1216,154,Castanharana vermelha,226,71.94,75,18,1,0.4064,5.1213,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588550.871,8894504.798
+39,1217,168,Cedro rosa,195,62.07,65,14,1,0.3026,2.9654,"Cedrela odorata L,",Meliaceae,,Explorável,588560.457,8894491.131
+39,1218,168,Cedro rosa,167,53.16,55,13,1,0.2219,2.0196,"Cedrela odorata L,",Meliaceae,,Porta Semente,588586.525,8894496.953
+39,1219,322,Jutaí,153,48.7,45,14,1,0.1863,1.8256,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Corte futuro,588580.781,8894510.851
+39,1220,716,Manitê,254,80.85,85,16,1,0.5134,5.7501,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588590.049,8894525.249
+39,1221,40,Angelim,217,69.07,65,13,2,0.3747,3.41,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588602.309,8894474.615
+39,1222,322,Jutaí,229,72.89,75,16,1,0.4173,4.6739,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588613.257,8894480.825
+39,1223,516,Sumauma preta,198,63.03,65,13,2,0.312,2.839,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588638.405,8894455.554
+39,1224,64,Açacu,123,39.15,35,11,2,0.1204,0.927,"Hura crepitans L,",Euphorbiaceae,,Corte futuro,588652.659,8894491.387
+39,1225,64,Açacu,297,94.54,95,16,1,0.7019,7.8618,"Hura crepitans L,",Euphorbiaceae,,APP,588739.795,8894474.787
+39,1226,157,Catuaba,239,76.08,75,15,2,0.4546,4.7728,"Qualea tessmannii Mildbr,",Vochysiaceae,,APP,588755.082,8894478.281
+39,1227,516,Sumauma preta,232,73.85,75,13,1,0.4283,3.8977,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588762.918,8894485.63
+39,1228,394,Mulateiro,174,55.39,55,15,1,0.2409,2.5298,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,588785.06,8894504.761
+39,1229,9,Abiurana vermelha,176,56.02,55,15,1,0.2465,2.5882,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,588820.399,8894499.53
+39,1230,571,Castanharana branca,160,50.93,55,16,1,0.2037,2.2816,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,588819.353,8894511.22
+39,1231,61,Aroeira,133,42.34,45,17,1,0.1408,1.6751,Astronium lecointei Ducke,Anacardiaceae,,APP,588946.944,8894500.229
+39,1232,154,Castanharana vermelha,210,66.85,65,18,1,0.3509,4.4218,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,588959.734,8894500.606
+39,1233,192,Cumaru ferro,346,110.14,115,20,1,0.9527,13.3374,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,588951.89,8894486.482
+40,1234,154,Castanharana vermelha,210,66.85,65,19,1,0.3509,4.6675,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588930.794,8894466.922
+40,1235,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,588909.179,8894456.502
+40,1236,716,Manitê,223,70.98,75,14,1,0.3957,3.8782,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588862.961,8894495.153
+40,1237,45,Angico,273,86.9,85,17,1,0.5931,7.0577,"Parkia nitida Miq,",Mimosaceae,,Explorável,588863.955,8894503.26
+40,1238,64,Açacu,263,83.72,85,15,1,0.5504,5.7795,"Hura crepitans L,",Euphorbiaceae,,Explorável,588841.473,8894476.502
+40,1239,467,Pinho cuiabano,251,79.9,75,12,1,0.5013,4.2113,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588671.905,8894434.822
+40,1240,64,Açacu,330,105.04,105,16,2,0.8666,9.7059,"Hura crepitans L,",Euphorbiaceae,,APP,588583.41,8894425.233
+40,1241,75,Bálsamo,136,43.29,45,15,1,0.1472,1.5455,"Myroxylon balsamum (L,) Harms",Fabaceae,,APP,588585.164,8894413.579
+40,1242,516,Sumauma preta,153,48.7,45,12,2,0.1863,1.5648,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588539.859,8894434.988
+40,1243,263,Guaribeiro,271,86.26,85,16,1,0.5844,6.5456,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588471.608,8894445.879
+40,1244,9,Abiurana vermelha,173,55.07,55,14,1,0.2382,2.334,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,APP,588469.851,8894433.825
+40,1245,64,Açacu,355,113,115,15,2,1.0029,10.5302,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588450.058,8894428.655
+40,1246,64,Açacu,410,130.51,135,16,1,1.3377,14.9822,"Hura crepitans L,",Euphorbiaceae,,Explorável,588423.778,8894452.604
+40,1247,640,Imbiridiba amarela,214,68.12,65,14,1,0.3644,3.5714,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588426.08,8894447.538
+41,1248,168,Cedro rosa,207,65.89,65,15,1,0.341,3.5803,"Cedrela odorata L,",Meliaceae,,Explorável,588428.643,8894417.252
+41,1249,516,Sumauma preta,204,64.94,65,14,2,0.3312,3.2455,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588432.41,8894372.45
+41,1250,571,Castanharana branca,203,64.62,65,17,1,0.3279,3.9024,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,588482.006,8894358.991
+41,1251,307,Jequitibá,251,79.9,75,16,1,0.5013,5.6151,Cariniana micrantha Ducke,Lecythidaceae,,Explorável,588500.251,8894370.068
+41,1252,467,Pinho cuiabano,179,56.98,55,15,1,0.255,2.6772,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588541.648,8894399.839
+41,1253,467,Pinho cuiabano,198,63.03,65,14,2,0.312,3.0574,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588561.192,8894416.325
+41,1254,516,Sumauma preta,228,72.57,75,13,1,0.4137,3.7644,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588719.092,8894431.861
+41,1255,571,Castanharana branca,220,70.03,75,15,1,0.3852,4.0441,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,588742.016,8894417.865
+41,1256,64,Açacu,335,106.63,105,16,1,0.8931,10.0023,"Hura crepitans L,",Euphorbiaceae,,Explorável,588865.8,8894409.053
+41,1257,160,Caucho,181,57.61,55,11,1,0.2607,2.0074,"Castilla ulei Warb,",Moraceae,,Explorável,588953.082,8894414.77
+42,1258,154,Castanharana vermelha,251,79.9,75,17,1,0.5013,5.966,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588941.067,8894374.483
+42,1259,462,Pereiro,180,57.3,55,14,2,0.2578,2.5267,"Aspidosperma macrocarpon Mart,",Apocynaceae,,Rara,588799.391,8894347.221
+42,1260,182,Copaíba,208,66.21,65,15,1,0.3443,3.615,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,588816.942,8894344.926
+42,1261,157,Catuaba,229,72.89,75,16,2,0.4173,4.6739,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,588819.147,8894341.361
+42,1262,513,Sumauma branca,251,79.9,75,17,2,0.5013,5.966,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,588799.545,8894335.209
+42,1263,322,Jutaí,263,83.72,85,16,1,0.5504,6.1648,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,588764.273,8894345.333
+42,1264,374,Marupá,153,48.7,45,16,1,0.1863,2.0864,"Simarouba amara Aubl,",Simaroubaceae,,Corte futuro,588637.99,8894320.313
+42,1265,157,Catuaba,232,73.85,75,13,1,0.4283,3.8977,"Qualea tessmannii Mildbr,",Vochysiaceae,,Explorável,588610.792,8894299.656
+42,1266,516,Sumauma preta,251,79.9,75,15,2,0.5013,5.2641,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588530.232,8894333.849
+42,1267,571,Castanharana branca,178,56.66,55,16,1,0.2521,2.8239,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588503.723,8894336.11
+42,1268,154,Castanharana vermelha,163,51.88,55,19,1,0.2114,2.812,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588496.286,8894352.756
+43,1269,154,Castanharana vermelha,192,61.12,65,16,1,0.2934,3.2856,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588498.777,8894285.731
+43,1270,255,Garapeira,160,50.93,55,17,1,0.2037,2.4242,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588503.089,8894272.179
+43,1271,716,Manitê,312,99.31,95,16,1,0.7746,8.676,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588527.289,8894272.695
+43,1272,154,Castanharana vermelha,220,70.03,75,18,1,0.3852,4.853,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588560.778,8894273.447
+43,1273,716,Manitê,229,72.89,75,15,1,0.4173,4.3818,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588567.355,8894288.26
+43,1274,61,Aroeira,175,55.7,55,19,1,0.2437,3.2413,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588601.755,8894293.44
+43,1275,64,Açacu,289,91.99,95,13,1,0.6646,6.0482,"Hura crepitans L,",Euphorbiaceae,,Explorável,588636.322,8894299.259
+43,1276,610,Amarelão,187,59.52,55,16,1,0.2783,3.1167,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588651.064,8894294.33
+43,1277,291,Itaúba,150,47.75,45,15,2,0.179,1.88,"Mezilaurus itauba (Meisn,) Taub, ex Mez",Lauraceae,,Rara,588645.801,8894298.513
+43,1278,640,Imbiridiba amarela,173,55.07,55,16,1,0.2382,2.6675,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588649.628,8894307.93
+43,1279,170,Cerejeira,200,63.66,65,17,1,0.3183,3.7879,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Explorável,588637.258,8894306.264
+43,1280,64,Açacu,247,78.62,75,10,1,0.4855,3.3985,"Hura crepitans L,",Euphorbiaceae,,Explorável,588670.912,8894295.931
+43,1281,516,Sumauma preta,273,86.9,85,15,2,0.5931,6.2274,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588776.261,8894307.35
+43,1282,160,Caucho,163,51.88,55,10,2,0.2114,1.48,"Castilla ulei Warb,",Moraceae,,Porta Semente,588781.487,8894310.767
+43,1283,162,Caxêta,229,72.89,75,15,1,0.4173,4.3818,"Jacaranda copaia (Aubl,) D, Don",Bignoniaceae,,Rara,588835.601,8894337.762
+43,1284,255,Garapeira,139,44.25,45,16,1,0.1538,1.722,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Corte futuro,588919.98,8894305.792
+43,1285,154,Castanharana vermelha,236,75.12,75,17,1,0.4432,5.2743,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588946.504,8894325.079
+44,1286,255,Garapeira,333,106,105,16,2,0.8824,9.8832,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588988.703,8894281.183
+44,1287,536,Tauari,122,38.83,35,15,1,0.1184,1.2437,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,588948.941,8894273.875
+44,1288,255,Garapeira,226,71.94,75,16,1,0.4064,4.5522,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588944.313,8894267.176
+44,1289,716,Manitê,346,110.14,115,13,1,0.9527,8.6693,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588743.018,8894253.509
+44,1290,640,Imbiridiba amarela,173,55.07,55,12,1,0.2382,2.0006,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588723.009,8894257.256
+44,1291,577,Marfim roxo,159,50.61,55,14,2,0.2012,1.9716,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588697.133,8894255.114
+44,1292,374,Marupá,158,50.29,55,16,1,0.1987,2.225,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,588677.367,8894249.397
+44,1293,263,Guaribeiro,220,70.03,75,18,1,0.3852,4.853,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588636.143,8894233.881
+44,1294,9,Abiurana vermelha,151,48.06,45,16,1,0.1814,2.0322,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Corte futuro,588624.816,8894237.579
+44,1295,168,Cedro rosa,122,38.83,35,10,2,0.1184,0.8291,"Cedrela odorata L,",Meliaceae,,Corte futuro,588569.869,8894253.257
+44,1296,154,Castanharana vermelha,254,80.85,85,18,1,0.5134,6.4689,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588519.417,8894243.362
+44,1297,516,Sumauma preta,234,74.48,75,13,2,0.4357,3.9652,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588527.281,8894228.291
+44,1298,64,Açacu,387,123.19,125,14,2,1.1918,11.6799,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588498.988,8894244.422
+44,1299,64,Açacu,410,130.51,135,15,1,1.3377,14.0458,"Hura crepitans L,",Euphorbiaceae,,Explorável,588468.813,8894235.088
+44,1300,362,Maparajuba,147,46.79,45,13,1,0.172,1.5648,"Manilkara paraensis (Huber) Standl,",Sapotaceae,,Rara,588460.367,8894218.454
+44,1301,516,Sumauma preta,283,90.08,95,16,1,0.6373,7.1381,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588462.366,8894209.728
+45,1302,374,Marupá,122,38.83,35,15,2,0.1184,1.2437,"Simarouba amara Aubl,",Simaroubaceae,,Corte futuro,588501.252,8894174.599
+45,1303,640,Imbiridiba amarela,153,48.7,45,11,2,0.1863,1.4344,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Corte futuro,588530.52,8894181.487
+45,1304,192,Cumaru ferro,346,110.14,115,18,1,0.9527,12.0036,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588548.653,8894176.948
+45,1305,640,Imbiridiba amarela,162,51.57,55,14,1,0.2088,2.0467,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588556.73,8894177.586
+45,1306,192,Cumaru ferro,267,84.99,85,17,1,0.5673,6.7509,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588586.767,8894149.318
+45,1307,168,Cedro rosa,188,59.84,55,11,1,0.2813,2.1657,"Cedrela odorata L,",Meliaceae,,Explorável,588625.229,8894188.939
+45,1308,45,Angico,204,64.94,65,16,1,0.3312,3.7091,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,588654.592,8894193.102
+45,1309,528,Tamarina,170,54.11,55,10,2,0.23,1.6099,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,588705.37,8894178.621
+45,1310,322,Jutaí,155,49.34,45,17,1,0.1912,2.2751,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Corte futuro,588730.805,8894180.904
+45,1311,182,Copaíba,390,124.14,125,17,1,1.2104,14.4034,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588731.002,8894193.582
+45,1312,640,Imbiridiba amarela,198,63.03,65,14,1,0.312,3.0574,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588741.629,8894170.246
+45,1313,516,Sumauma preta,270,85.94,85,15,2,0.5801,6.0913,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588771.752,8894169.57
+45,1314,160,Caucho,251,79.9,75,10,1,0.5013,3.5094,"Castilla ulei Warb,",Moraceae,,Explorável,588782.929,8894179.608
+45,1315,255,Garapeira,214,68.12,65,15,2,0.3644,3.8265,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588828.97,8894200.293
+45,1316,264,Guariúba,176,56.02,55,12,1,0.2465,2.0706,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588858.402,8894217.311
+45,1317,516,Sumauma preta,172,54.75,55,13,2,0.2354,2.1423,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588983.309,8894202.295
+46,1318,160,Caucho,251,79.9,75,10,1,0.5013,3.5094,"Castilla ulei Warb,",Moraceae,,Explorável,588977.181,8894165.07
+46,1319,263,Guaribeiro,153,48.7,45,17,1,0.1863,2.2168,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Corte futuro,588819.395,8894150.49
+46,1320,516,Sumauma preta,242,77.03,75,12,1,0.466,3.9147,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588747.95,8894147.746
+46,1321,160,Caucho,188,59.84,55,10,2,0.2813,1.9688,"Castilla ulei Warb,",Moraceae,,Explorável,588730.115,8894143.128
+46,1322,255,Garapeira,283,90.08,95,18,1,0.6373,8.0303,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588693.789,8894142.615
+46,1323,307,Jequitibá,223,70.98,75,15,1,0.3957,4.1552,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,588679.262,8894149.268
+46,1324,168,Cedro rosa,173,55.07,55,14,1,0.2382,2.334,"Cedrela odorata L,",Meliaceae,,Explorável,588662.517,8894131.625
+46,1325,160,Caucho,173,55.07,55,15,1,0.2382,2.5008,"Castilla ulei Warb,",Moraceae,,Explorável,588650.331,8894137.753
+46,1326,640,Imbiridiba amarela,198,63.03,65,14,2,0.312,3.0574,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588618.981,8894128.766
+46,1327,264,Guariúba,208,66.21,65,15,1,0.3443,3.615,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588598.691,8894126.452
+46,1328,513,Sumauma branca,448,142.6,145,21,1,1.5972,23.4781,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588587.629,8894118.731
+46,1329,264,Guariúba,142,45.2,45,14,1,0.1605,1.5725,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588574.152,8894118.959
+46,1330,513,Sumauma branca,324,103.13,105,19,1,0.8354,11.1105,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588561.018,8894127.647
+46,1331,154,Castanharana vermelha,154,49.02,45,17,1,0.1887,2.2458,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Corte futuro,588463.285,8894108.164
+47,1332,264,Guariúba,185,58.89,55,12,1,0.2724,2.2878,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588526.64,8894067.785
+47,1333,255,Garapeira,220,70.03,75,17,1,0.3852,4.5833,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588526.973,8894087.312
+47,1334,322,Jutaí,263,83.72,85,17,1,0.5504,6.5501,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,588555.243,8894095.482
+47,1335,162,Caxêta,217,69.07,65,14,1,0.3747,3.6723,"Jacaranda copaia (Aubl,) D, Don",Bignoniaceae,,Rara,588556.023,8894083.904
+47,1336,374,Marupá,179,56.98,55,16,1,0.255,2.8557,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,588572.646,8894089.258
+47,1337,640,Imbiridiba amarela,154,49.02,45,13,2,0.1887,1.7174,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Corte futuro,588572.589,8894107.257
+47,1338,263,Guaribeiro,122,38.83,35,15,1,0.1184,1.2437,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Corte futuro,588632.847,8894110.89
+47,1339,374,Marupá,120,38.2,35,14,1,0.1146,1.123,"Simarouba amara Aubl,",Simaroubaceae,,Corte futuro,588654.496,8894116.686
+47,1340,263,Guaribeiro,239,76.08,75,18,1,0.4546,5.7274,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588730.765,8894097.248
+47,1341,516,Sumauma preta,229,72.89,75,10,1,0.4173,2.9212,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588748.449,8894119.152
+47,1342,160,Caucho,164,52.2,55,13,2,0.214,1.9477,"Castilla ulei Warb,",Moraceae,,Porta Semente,588801.527,8894087.361
+47,1343,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588846.61,8894080.92
+47,1344,61,Aroeira,158,50.29,55,19,1,0.1987,2.6421,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588993.379,8894105.778
+48,1345,9,Abiurana vermelha,170,54.11,55,14,2,0.23,2.2538,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,588980.011,8894071.75
+48,1346,255,Garapeira,257,81.81,85,16,2,0.5256,5.8867,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588900.077,8894054.319
+48,1347,168,Cedro rosa,158,50.29,55,11,2,0.1987,1.5297,"Cedrela odorata L,",Meliaceae,,Porta Semente,588838.158,8894069.652
+48,1348,75,Bálsamo,100,31.83,35,15,1,0.0796,0.8356,"Myroxylon balsamum (L,) Harms",Fabaceae,,Rara,588795.247,8894021.554
+48,1349,571,Castanharana branca,159,50.61,55,17,1,0.2012,2.394,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,588774.983,8894011.52
+48,1350,571,Castanharana branca,145,46.15,45,15,1,0.1673,1.7568,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588727.016,8894025.827
+48,1351,716,Manitê,201,63.98,65,17,1,0.3215,3.8259,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588684.494,8894027.646
+48,1352,322,Jutaí,257,81.81,85,19,1,0.5256,6.9905,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,588657.137,8894024.738
+48,1353,528,Tamarina,163,51.88,55,14,1,0.2114,2.072,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588624.437,8894045.598
+48,1354,160,Caucho,226,71.94,75,13,1,0.4064,3.6987,"Castilla ulei Warb,",Moraceae,,Explorável,588575.034,8894028.915
+48,1355,255,Garapeira,229,72.89,75,14,1,0.4173,4.0897,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588568.182,8894040.935
+48,1356,255,Garapeira,251,79.9,75,17,1,0.5013,5.966,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588560.051,8894040.537
+48,1357,40,Angelim,171,54.43,55,15,1,0.2327,2.4433,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588548.452,8894042.169
+48,1358,528,Tamarina,197,62.71,65,15,2,0.3088,3.2427,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,588490.361,8894052.942
+48,1359,64,Açacu,460,146.42,145,17,1,1.6839,20.0379,"Hura crepitans L,",Euphorbiaceae,,Explorável,588519.905,8894044.844
+48,1360,75,Bálsamo,180,57.3,55,16,1,0.2578,2.8877,"Myroxylon balsamum (L,) Harms",Fabaceae,,Rara,588473.179,8894033.317
+48,1361,610,Amarelão,190,60.48,65,17,1,0.2873,3.4186,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588467.376,8894045.276
+49,1362,536,Tauari,201,63.98,65,22,1,0.3215,4.9511,"Couratari macrosperma A, C, Sm,",Lecythidaceae,,Rara,588481.884,8894012.498
+49,1363,322,Jutaí,190,60.48,65,15,1,0.2873,3.0164,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588477.346,8893997.772
+49,1364,154,Castanharana vermelha,254,80.85,85,15,2,0.5134,5.3907,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588488.718,8893986.085
+49,1365,182,Copaíba,263,83.72,85,16,1,0.5504,6.1648,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,588504.563,8893977.529
+49,1366,528,Tamarina,208,66.21,65,11,2,0.3443,2.651,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,588514.011,8893963.807
+49,1367,160,Caucho,166,52.84,55,12,1,0.2193,1.842,"Castilla ulei Warb,",Moraceae,,Explorável,588541.891,8893985.427
+49,1368,577,Marfim roxo,253,80.53,85,13,2,0.5094,4.6352,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Explorável,588540.12,8893982.53
+49,1369,154,Castanharana vermelha,188,59.84,55,16,1,0.2813,3.1501,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588530.366,8893979.894
+49,1370,516,Sumauma preta,226,71.94,75,11,1,0.4064,3.1297,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588582.438,8893949.746
+49,1371,61,Aroeira,160,50.93,55,17,1,0.2037,2.4242,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588576.523,8893950.567
+49,1372,9,Abiurana vermelha,128,40.74,45,11,2,0.1304,1.0039,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Corte futuro,588764.966,8893980.329
+49,1373,160,Caucho,185,58.89,55,11,2,0.2724,2.0971,"Castilla ulei Warb,",Moraceae,,Explorável,588819.871,8893981.705
+49,1374,516,Sumauma preta,217,69.07,65,13,2,0.3747,3.41,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588841.434,8893993.283
+49,1375,513,Sumauma branca,377,120,125,14,1,1.131,11.0841,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588856.474,8894027.316
+49,1376,255,Garapeira,222,70.66,75,15,1,0.3922,4.118,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588837.126,8894019.773
+49,1377,467,Pinho cuiabano,135,42.97,45,14,1,0.145,1.4213,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Corte futuro,588883.08,8894008.992
+49,1378,467,Pinho cuiabano,129,41.06,45,16,1,0.1324,1.4832,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Corte futuro,588883.365,8894008.945
+49,1379,322,Jutaí,193,61.43,65,15,2,0.2964,3.1124,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588904.954,8894001.459
+49,1380,160,Caucho,122,38.83,35,11,2,0.1184,0.912,"Castilla ulei Warb,",Moraceae,,Corte futuro,588945.096,8894014.271
+50,1381,168,Cedro rosa,192,61.12,65,12,1,0.2934,2.4642,"Cedrela odorata L,",Meliaceae,,Porta Semente,588956.93,8893984.593
+50,1382,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,Proibida,588947.432,8893955.254
+50,1383,160,Caucho,131,41.7,45,13,1,0.1366,1.2427,"Castilla ulei Warb,",Moraceae,,Corte futuro,588907.032,8893953.472
+50,1384,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,588896.744,8893950.124
+50,1385,160,Caucho,173,55.07,55,12,1,0.2382,2.0006,"Castilla ulei Warb,",Moraceae,,Explorável,588813.796,8893958.206
+50,1386,160,Caucho,181,57.61,55,13,1,0.2607,2.3724,"Castilla ulei Warb,",Moraceae,,Explorável,588793.402,8893943.918
+50,1387,61,Aroeira,153,48.7,45,11,2,0.1863,1.4344,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588790.043,8893956.234
+50,1388,61,Aroeira,174,55.39,55,17,1,0.2409,2.8671,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588670.31,8893945.675
+50,1389,291,Itaúba,120,38.2,35,11,2,0.1146,0.8824,"Mezilaurus itauba (Meisn,) Taub, ex Mez",Lauraceae,,Rara,588649.623,8893935.058
+50,1390,168,Cedro rosa,140,44.56,45,13,1,0.156,1.4193,"Cedrela odorata L,",Meliaceae,,Corte futuro,588573.648,8893935.708
+50,1391,640,Imbiridiba amarela,160,50.93,55,13,2,0.2037,1.8538,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Porta Semente,588543.78,8893931.564
+51,1392,9,Abiurana vermelha,158,50.29,55,13,2,0.1987,1.8078,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,588492.69,8893878.258
+51,1393,577,Marfim roxo,147,46.79,45,13,2,0.172,1.5648,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Corte futuro,588539.515,8893874.185
+51,1394,154,Castanharana vermelha,283,90.08,95,17,2,0.6373,7.5842,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588568.539,8893897.795
+51,1395,374,Marupá,143,45.52,45,15,1,0.1627,1.7086,"Simarouba amara Aubl,",Simaroubaceae,,Corte futuro,588589.555,8893903.851
+51,1396,640,Imbiridiba amarela,261,83.08,85,16,1,0.5421,6.0714,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588672.388,8893905.149
+51,1397,154,Castanharana vermelha,220,70.03,75,16,1,0.3852,4.3137,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588760.296,8893904.053
+51,1398,577,Marfim roxo,210,66.85,65,14,2,0.3509,3.4392,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588779.892,8893896.729
+51,1399,640,Imbiridiba amarela,159,50.61,55,16,1,0.2012,2.2532,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588782.349,8893924.825
+51,1400,263,Guaribeiro,171,54.43,55,15,1,0.2327,2.4433,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588774.203,8893929.646
+51,1401,160,Caucho,220,70.03,75,11,2,0.3852,2.9657,"Castilla ulei Warb,",Moraceae,,Explorável,588829.888,8893938.351
+51,1402,528,Tamarina,179,56.98,55,17,1,0.255,3.0342,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588852.273,8893925.357
+51,1403,263,Guaribeiro,207,65.89,65,17,1,0.341,4.0577,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588935.473,8893900.62
+51,1404,610,Amarelão,208,66.21,65,19,3,0.3443,4.579,Aspidosperma williamsii Duarte,Apocynaceae,Oco,Porta Semente,588945.142,8893879.9
+51,1405,516,Sumauma preta,286,91.04,95,14,2,0.6509,6.3789,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588950.685,8893895.846
+51,1406,160,Caucho,164,52.2,55,11,1,0.214,1.648,"Castilla ulei Warb,",Moraceae,,Explorável,588953.257,8893918.482
+52,1407,160,Caucho,124,39.47,35,12,1,0.1224,1.0278,"Castilla ulei Warb,",Moraceae,,Corte futuro,588862.3,8893852.512
+52,1408,571,Castanharana branca,175,55.7,55,16,1,0.2437,2.7295,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588852.828,8893855.955
+52,1409,577,Marfim roxo,170,54.11,55,15,1,0.23,2.4148,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588854.561,8893854.561
+52,1410,45,Angico,264,84.03,85,14,1,0.5546,5.4353,"Parkia nitida Miq,",Mimosaceae,,Explorável,588865.752,8893851.354
+52,1411,154,Castanharana vermelha,198,63.03,65,15,1,0.312,3.2757,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588853.579,8893832.736
+52,1412,610,Amarelão,167,53.16,55,18,1,0.2219,2.7964,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588860.142,8893826.566
+52,1413,716,Manitê,237,75.44,75,16,1,0.447,5.0062,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588847.523,8893828.2
+52,1414,640,Imbiridiba amarela,160,50.93,55,14,1,0.2037,1.9964,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588829.563,8893835.993
+52,1415,263,Guaribeiro,249,79.26,75,16,1,0.4934,5.5259,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588827.851,8893830.733
+52,1416,640,Imbiridiba amarela,179,56.98,55,19,1,0.255,3.3912,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588770.227,8893885.27
+52,1417,434,Ipê amarelo,150,47.75,45,17,1,0.179,2.1307,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588708.622,8893886.561
+52,1418,61,Aroeira,172,54.75,55,17,1,0.2354,2.8015,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588700.884,8893889.286
+52,1419,160,Caucho,181,57.61,55,10,1,0.2607,1.8249,"Castilla ulei Warb,",Moraceae,,Explorável,588711.426,8893865.098
+52,1420,640,Imbiridiba amarela,145,46.15,45,12,2,0.1673,1.4054,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Corte futuro,588695.037,8893850.124
+52,1421,716,Manitê,283,90.08,95,16,1,0.6373,7.1381,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588659.315,8893874.93
+52,1422,61,Aroeira,133,42.34,45,15,2,0.1408,1.478,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588622.056,8893887.83
+52,1423,255,Garapeira,283,90.08,95,16,3,0.6373,7.1381,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,Oco,Porta Semente,588595.496,8893872.343
+52,1424,571,Castanharana branca,153,48.7,45,15,1,0.1863,1.956,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588549.778,8893814.945
+53,1425,154,Castanharana vermelha,142,45.2,45,17,1,0.1605,1.9095,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Corte futuro,588529.17,8893802.678
+53,1426,610,Amarelão,157,49.97,45,18,1,0.1962,2.4715,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588529.917,8893796.652
+53,1427,571,Castanharana branca,173,55.07,55,15,2,0.2382,2.5008,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,588520.431,8893790.605
+53,1428,571,Castanharana branca,137,43.61,45,14,1,0.1494,1.4637,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588567.787,8893797.227
+53,1429,264,Guariúba,150,47.75,45,12,1,0.179,1.504,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588571.289,8893797.784
+53,1430,154,Castanharana vermelha,267,84.99,85,20,1,0.5673,7.9422,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588568.477,8893801.201
+53,1431,154,Castanharana vermelha,159,50.61,55,16,1,0.2012,2.2532,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588663.291,8893806.835
+53,1432,192,Cumaru ferro,139,44.25,45,16,1,0.1538,1.722,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Corte futuro,588697.621,8893825.112
+53,1433,160,Caucho,188,59.84,55,13,1,0.2813,2.5595,"Castilla ulei Warb,",Moraceae,,Explorável,588850.343,8893797.951
+53,1434,610,Amarelão,172,54.75,55,17,1,0.2354,2.8015,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588873.778,8893831.278
+53,1435,640,Imbiridiba amarela,183,58.25,55,16,1,0.2665,2.9848,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588880.105,8893803.902
+53,1436,160,Caucho,139,44.25,45,13,2,0.1538,1.3991,"Castilla ulei Warb,",Moraceae,,Corte futuro,588885.279,8893819.525
+53,1437,168,Cedro rosa,197,62.71,65,13,2,0.3088,2.8104,"Cedrela odorata L,",Meliaceae,,Porta Semente,588884.03,8893812.438
+53,1438,61,Aroeira,261,83.08,85,19,2,0.5421,7.2098,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588904.811,8893820.135
+53,1439,61,Aroeira,140,44.56,45,17,1,0.156,1.8561,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588984.528,8893828.197
+54,1440,716,Manitê,204,64.94,65,15,1,0.3312,3.4773,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588969.019,8893775.304
+54,1441,263,Guaribeiro,238,75.76,75,17,1,0.4508,5.364,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588954.275,8893779.493
+54,1442,154,Castanharana vermelha,220,70.03,75,16,1,0.3852,4.3137,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588945.137,8893784.316
+54,1443,610,Amarelão,228,72.57,75,17,2,0.4137,4.9227,Aspidosperma williamsii Duarte,Apocynaceae,,Porta Semente,588934.422,8893790.765
+54,1444,160,Caucho,170,54.11,55,11,1,0.23,1.7708,"Castilla ulei Warb,",Moraceae,,Explorável,588897.623,8893766.165
+54,1445,154,Castanharana vermelha,188,59.84,55,17,2,0.2813,3.347,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,588887.23,8893753.92
+54,1446,61,Aroeira,191,60.8,65,17,1,0.2903,3.4546,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588831.336,8893768.627
+54,1447,61,Aroeira,203,64.62,65,18,1,0.3279,4.1319,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588794.701,8893773.388
+55,1448,160,Caucho,151,48.06,45,12,1,0.1814,1.5241,"Castilla ulei Warb,",Moraceae,,APP,588517.863,8893661.291
+55,1449,255,Garapeira,270,85.94,85,18,1,0.5801,7.3095,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588702.357,8893703.259
+55,1450,577,Marfim roxo,229,72.89,75,10,2,0.4173,2.9212,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588831.977,8893704.322
+55,1451,374,Marupá,197,62.71,65,15,1,0.3088,3.2427,"Simarouba amara Aubl,",Simaroubaceae,,APP,588945.457,8893683.217
+55,1452,192,Cumaru ferro,242,77.03,75,16,1,0.466,5.2196,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588995.094,8893694.068
+55,1453,374,Marupá,130,41.38,45,14,1,0.1345,1.318,"Simarouba amara Aubl,",Simaroubaceae,,APP,589013.997,8893718.861
+56,1454,9,Abiurana vermelha,153,48.7,45,15,1,0.1863,1.956,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Corte futuro,589003.833,8893657.715
+56,1455,154,Castanharana vermelha,201,63.98,65,15,1,0.3215,3.3758,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,589007.808,8893652.942
+56,1456,528,Tamarina,222,70.66,75,13,1,0.3922,3.5689,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588957.058,8893656.181
+56,1457,263,Guaribeiro,263,83.72,85,17,1,0.5504,6.5501,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588957.166,8893651.454
+56,1458,192,Cumaru ferro,120,38.2,35,15,1,0.1146,1.2032,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Corte futuro,588951.202,8893661.802
+56,1459,516,Sumauma preta,127,40.43,45,10,1,0.1284,0.8985,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588918.597,8893661.864
+56,1460,263,Guaribeiro,275,87.54,85,16,1,0.6018,6.7402,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588849.044,8893684.724
+56,1461,45,Angico,251,79.9,75,15,2,0.5013,5.2641,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,588834.145,8893677.995
+56,1462,571,Castanharana branca,187,59.52,55,16,1,0.2783,3.1167,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588810.422,8893677.163
+56,1463,528,Tamarina,182,57.93,55,14,1,0.2636,2.5832,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588803.098,8893672.408
+56,1464,610,Amarelão,157,49.97,45,16,1,0.1962,2.1969,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588791.678,8893653.612
+56,1465,716,Manitê,232,73.85,75,17,1,0.4283,5.097,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588772.57,8893653.771
+56,1466,182,Copaíba,295,93.9,95,15,1,0.6925,7.2715,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588737.897,8893671.725
+56,1467,154,Castanharana vermelha,172,54.75,55,17,1,0.2354,2.8015,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588728.187,8893672.12
+56,1468,640,Imbiridiba amarela,188,59.84,55,14,1,0.2813,2.7563,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588618.744,8893642.22
+57,1469,192,Cumaru ferro,197,62.71,65,16,1,0.3088,3.4589,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,588516.555,8893613.495
+57,1470,716,Manitê,236,75.12,75,15,2,0.4432,4.6538,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,588539.765,8893601.513
+57,1471,2,Abiu,251,79.9,75,16,1,0.5013,5.6151,"Pouteria caimito (Ruiz & Pav,) Radlk,",Sapotaceae,,APP,588568.455,8893585.974
+57,1472,61,Aroeira,228,72.57,75,14,1,0.4137,4.054,Astronium lecointei Ducke,Anacardiaceae,,APP,588572.793,8893590.736
+57,1473,61,Aroeira,157,49.97,45,16,2,0.1962,2.1969,Astronium lecointei Ducke,Anacardiaceae,,APP,588587.908,8893606.603
+57,1474,40,Angelim,197,62.71,65,15,1,0.3088,3.2427,Hymenolobium excelsum Ducke,Fabaceae,,APP,588619.937,8893641.605
+57,1475,9,Abiurana vermelha,122,38.83,35,13,1,0.1184,1.0778,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,APP,588641.883,8893603.7
+57,1476,640,Imbiridiba amarela,153,48.7,45,12,2,0.1863,1.5648,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588646.272,8893599.101
+57,1477,716,Manitê,289,91.99,95,17,1,0.6646,7.9092,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,588643.9,8893594.51
+57,1478,45,Angico,251,79.9,75,16,1,0.5013,5.6151,"Parkia nitida Miq,",Mimosaceae,,Explorável,588640.99,8893584.285
+57,1479,413,Orelhinha,199,63.34,65,13,2,0.3151,2.8677,"Enterolobium schomburgkii Mart, ex, Benth,",Mimosaceae,,APP,588667.643,8893596.194
+57,1480,516,Sumauma preta,172,54.75,55,13,1,0.2354,2.1423,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588682.748,8893619.439
+57,1481,263,Guaribeiro,192,61.12,65,19,1,0.2934,3.9016,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588691.648,8893618.518
+57,1482,263,Guaribeiro,275,87.54,85,17,1,0.6018,7.1615,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588721.403,8893621.837
+57,1483,528,Tamarina,193,61.43,65,16,1,0.2964,3.3199,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,APP,588733.935,8893618.442
+57,1484,246,Figueira,220,70.03,75,14,2,0.3852,3.7745,"Ficus maxima Mill,",Moraceae,,APP,588743.174,8893590.819
+57,1485,716,Manitê,264,84.03,85,17,1,0.5546,6.6,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588788.115,8893564.516
+57,1486,160,Caucho,210,66.85,65,10,1,0.3509,2.4566,"Castilla ulei Warb,",Moraceae,,Explorável,588813.913,8893568.373
+57,1487,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,APP,588841.689,8893588.843
+57,1488,160,Caucho,139,44.25,45,11,1,0.1538,1.1839,"Castilla ulei Warb,",Moraceae,,Corte futuro,588951.026,8893616.481
+57,1489,291,Itaúba,130,41.38,45,14,2,0.1345,1.318,"Mezilaurus itauba (Meisn,) Taub, ex Mez",Lauraceae,,Rara,588964.782,8893610.237
+57,1490,192,Cumaru ferro,292,92.95,95,15,2,0.6785,7.1243,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,588968.035,8893633.224
+57,1491,263,Guaribeiro,245,77.99,75,15,2,0.4777,5.0155,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588977.861,8893631.522
+57,1492,716,Manitê,283,90.08,95,15,3,0.6373,6.6919,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588981.736,8893611.966
+57,1493,307,Jequitibá,220,70.03,75,14,2,0.3852,3.7745,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,589028.518,8893613.222
+58,1494,640,Imbiridiba amarela,112,35.65,35,13,2,0.0998,0.9084,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Corte futuro,588966.993,8893553.204
+58,1495,348,Maçaranduba,189,60.16,65,13,1,0.2843,2.5868,"Manilkara bidentata (A, DC,) subsp, surinamensis (Miq,) T, D, Penn",Sapotaceae,,Rara,588967.801,8893575.27
+58,1496,255,Garapeira,229,72.89,75,17,1,0.4173,4.966,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588962.877,8893564.142
+58,1497,577,Marfim roxo,146,46.47,45,9,2,0.1696,1.0687,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Corte futuro,588942.948,8893544.468
+58,1498,610,Amarelão,148,47.11,45,17,1,0.1743,2.0742,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588948.509,8893538.411
+58,1499,9,Abiurana vermelha,242,77.03,75,14,1,0.466,4.5672,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,588937.946,8893535.434
+58,1500,716,Manitê,306,97.4,95,15,1,0.7451,7.8239,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588900.008,8893559.218
+58,1501,40,Angelim,183,58.25,55,15,2,0.2665,2.7982,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588889.389,8893556.028
+58,1502,516,Sumauma preta,204,64.94,65,12,1,0.3312,2.7818,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588865.573,8893565.558
+58,1503,610,Amarelão,148,47.11,45,16,2,0.1743,1.9522,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588865.057,8893557.413
+58,1504,182,Copaíba,360,114.59,115,16,1,1.0313,11.5508,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588662.243,8893540.848
+58,1505,263,Guaribeiro,237,75.44,75,15,1,0.447,4.6933,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588613.751,8893558.086
+59,1506,160,Caucho,192,61.12,65,12,1,0.2934,2.4642,"Castilla ulei Warb,",Moraceae,,Explorável,588580.864,8893499.1
+59,1507,640,Imbiridiba amarela,220,70.03,75,14,2,0.3852,3.7745,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588577.159,8893505.244
+59,1508,716,Manitê,214,68.12,65,15,1,0.3644,3.8265,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588582.384,8893504.203
+59,1509,462,Pereiro,159,50.61,55,14,1,0.2012,1.9716,"Aspidosperma macrocarpon Mart,",Apocynaceae,,Rara,588643.616,8893520.068
+59,1510,246,Figueira,283,90.08,95,15,1,0.6373,6.6919,"Ficus maxima Mill,",Moraceae,,Explorável,588638.986,8893519.968
+59,1511,640,Imbiridiba amarela,188,59.84,55,16,2,0.2813,3.1501,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588823.139,8893498.56
+59,1512,610,Amarelão,161,51.25,55,14,1,0.2063,2.0215,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,589003.116,8893512.15
+59,1513,374,Marupá,130,41.38,45,16,1,0.1345,1.5062,"Simarouba amara Aubl,",Simaroubaceae,,Corte futuro,589011.445,8893510.859
+59,1514,40,Angelim,135,42.97,45,13,1,0.145,1.3198,Hymenolobium excelsum Ducke,Fabaceae,,Rara,589029.787,8893516.783
+60,1515,182,Copaíba,253,80.53,85,17,1,0.5094,6.0615,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,589042.461,8893451.531
+60,1516,374,Marupá,204,64.94,65,16,1,0.3312,3.7091,"Simarouba amara Aubl,",Simaroubaceae,,Explorável,589025.674,8893439.384
+60,1517,374,Marupá,179,56.98,55,16,2,0.255,2.8557,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,589014.226,8893457.68
+60,1518,374,Marupá,197,62.71,65,14,1,0.3088,3.0266,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,589009.894,8893451.759
+60,1519,716,Manitê,346,110.14,115,17,1,0.9527,11.3368,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588994.23,8893444.254
+60,1520,610,Amarelão,192,61.12,65,17,1,0.2934,3.4909,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588996.073,8893457.707
+60,1521,255,Garapeira,134,42.65,45,16,1,0.1429,1.6004,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Corte futuro,588993.405,8893474.934
+60,1522,160,Caucho,176,56.02,55,10,1,0.2465,1.7255,"Castilla ulei Warb,",Moraceae,,Explorável,588939.252,8893472.472
+60,1523,263,Guaribeiro,179,56.98,55,17,1,0.255,3.0342,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588916.584,8893474.687
+60,1524,382,Mogno/Aguano,251,79.9,75,14,1,0.5013,4.9132,Swietenia macrophylla King,Meliaceae,,Proibida,588902.551,8893461.357
+60,1525,61,Aroeira,192,61.12,65,18,1,0.2934,3.6963,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588721.364,8893441.208
+60,1526,263,Guaribeiro,268,85.31,85,15,2,0.5716,6.0014,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588711.056,8893459.677
+60,1527,571,Castanharana branca,133,42.34,45,16,1,0.1408,1.5766,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588698.646,8893445.342
+60,1528,61,Aroeira,207,65.89,65,19,1,0.341,4.5351,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588698.301,8893447.197
+60,1529,716,Manitê,314,99.95,95,15,2,0.7846,8.2383,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588629.161,8893432.287
+60,1530,516,Sumauma preta,147,46.79,45,10,1,0.172,1.2037,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Corte futuro,588613.78,8893423.816
+60,1531,516,Sumauma preta,165,52.52,55,16,1,0.2166,2.4265,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588600.624,8893423.469
+60,1532,571,Castanharana branca,153,48.7,45,15,2,0.1863,1.956,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588546.879,8893430.468
+61,1533,716,Manitê,297,94.54,95,14,1,0.7019,6.8791,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588540.043,8893400.02
+61,1534,61,Aroeira,152,48.38,45,18,1,0.1839,2.3166,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588545.613,8893363.666
+61,1535,246,Figueira,158,50.29,55,14,2,0.1987,1.9468,"Ficus maxima Mill,",Moraceae,,Porta Semente,588571.005,8893396.951
+61,1536,157,Catuaba,146,46.47,45,14,1,0.1696,1.6623,"Qualea tessmannii Mildbr,",Vochysiaceae,,Corte futuro,588650.778,8893417.469
+61,1537,434,Ipê amarelo,120,38.2,35,16,1,0.1146,1.2834,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588787.279,8893403.538
+61,1538,513,Sumauma branca,220,70.03,75,17,1,0.3852,4.5833,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,588786.838,8893399.85
+61,1539,369,Marfim,183,58.25,55,13,3,0.2665,2.4251,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,588811.731,8893402.161
+61,1540,394,Mulateiro,210,66.85,65,15,1,0.3509,3.6848,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Explorável,588810.583,8893406.001
+61,1541,263,Guaribeiro,195,62.07,65,18,1,0.3026,3.8127,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588823.953,8893411.316
+61,1542,571,Castanharana branca,188,59.84,55,15,1,0.2813,2.9532,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588836.561,8893416.16
+61,1543,192,Cumaru ferro,220,70.03,75,15,1,0.3852,4.0441,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,588843.972,8893433.761
+61,1544,348,Maçaranduba,251,79.9,75,16,1,0.5013,5.6151,"Manilkara bidentata (A, DC,) subsp, surinamensis (Miq,) T, D, Penn",Sapotaceae,,Rara,588836.141,8893421.166
+61,1545,571,Castanharana branca,188,59.84,55,17,1,0.2813,3.347,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588859.45,8893425.539
+61,1546,192,Cumaru ferro,226,71.94,75,14,1,0.4064,3.9832,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588869.887,8893411.074
+61,1547,571,Castanharana branca,253,80.53,85,15,1,0.5094,5.3484,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588952,8893422.744
+61,1548,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,588973.304,8893415.064
+62,1549,571,Castanharana branca,277,88.17,85,16,1,0.6106,6.8386,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588952.782,8893389.534
+62,1550,40,Angelim,283,90.08,95,15,1,0.6373,6.6919,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588916.936,8893378.556
+62,1551,571,Castanharana branca,161,51.25,55,17,1,0.2063,2.4546,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,588857.921,8893360.396
+62,1552,571,Castanharana branca,194,61.75,65,14,2,0.2995,2.9351,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,588863.1,8893359.531
+62,1553,434,Ipê amarelo,198,63.03,65,16,2,0.312,3.4941,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,588766.086,8893355.284
+62,1554,511,Sucupira amarela,253,80.53,85,16,1,0.5094,5.7049,"Diplotropis purpurea (Rich,) Amshoff",Fabaceae,,Rara,588620.582,8893380.572
+62,1555,716,Manitê,295,93.9,95,16,1,0.6925,7.7563,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588616.363,8893360.573
+63,1556,394,Mulateiro,149,47.43,45,15,1,0.1767,1.855,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Corte futuro,588616.731,8893285.944
+63,1557,192,Cumaru ferro,314,99.95,95,18,1,0.7846,9.886,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588621.693,8893286.599
+63,1558,571,Castanharana branca,223,70.98,75,16,1,0.3957,4.4322,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588804.247,8893302.796
+63,1559,263,Guaribeiro,271,86.26,85,15,2,0.5844,6.1365,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588828.256,8893319.281
+63,1560,263,Guaribeiro,248,78.94,75,18,1,0.4894,6.1669,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588850.537,8893316.798
+63,1561,716,Manitê,283,90.08,95,15,2,0.6373,6.6919,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588846.537,8893307.781
+63,1562,160,Caucho,151,48.06,45,10,2,0.1814,1.2701,"Castilla ulei Warb,",Moraceae,,Corte futuro,588843.659,8893317.89
+63,1563,61,Aroeira,145,46.15,45,16,1,0.1673,1.8739,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588858.264,8893320.644
+63,1564,64,Açacu,463,147.38,145,15,2,1.7059,17.9119,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,589033.461,8893330.074
+64,1565,154,Castanharana vermelha,214,68.12,65,16,1,0.3644,4.0816,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,589058.618,8893286.59
+64,1566,246,Figueira,278,88.49,85,14,1,0.615,6.0271,"Ficus maxima Mill,",Moraceae,,Porta Semente,589064.981,8893273.979
+64,1567,64,Açacu,208,66.21,65,16,1,0.3443,3.856,"Hura crepitans L,",Euphorbiaceae,,Explorável,589013.201,8893280.103
+64,1568,322,Jutaí,142,45.2,45,15,1,0.1605,1.6848,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Corte futuro,588974.551,8893246.063
+64,1569,528,Tamarina,154,49.02,45,13,2,0.1887,1.7174,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Corte futuro,588935.042,8893258.988
+64,1570,182,Copaíba,262,83.4,85,16,1,0.5463,6.118,Copaifera multijuga Hayne,Caesalpiniaceae,,Porta Semente,588916.413,8893267.116
+64,1571,577,Marfim roxo,261,83.08,85,14,1,0.5421,5.3125,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Explorável,588873.502,8893256.173
+64,1572,571,Castanharana branca,173,55.07,55,16,1,0.2382,2.6675,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588868.792,8893264.749
+64,1573,160,Caucho,182,57.93,55,12,1,0.2636,2.2142,"Castilla ulei Warb,",Moraceae,,Explorável,588821.873,8893248.802
+64,1574,168,Cedro rosa,116,36.92,35,11,1,0.1071,0.8245,"Cedrela odorata L,",Meliaceae,,Corte futuro,588791.605,8893261.139
+64,1575,513,Sumauma branca,395,125.73,125,18,1,1.2416,15.6443,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588752.865,8893280.215
+64,1576,571,Castanharana branca,129,41.06,45,14,2,0.1324,1.2978,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588757.895,8893263.594
+64,1577,394,Mulateiro,189,60.16,65,17,1,0.2843,3.3827,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Explorável,588683.971,8893245.823
+64,1578,516,Sumauma preta,247,78.62,75,10,2,0.4855,3.3985,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588657.406,8893265.658
+64,1579,571,Castanharana branca,198,63.03,65,18,1,0.312,3.9309,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588653.971,8893265.907
+64,1580,394,Mulateiro,223,70.98,75,16,1,0.3957,4.4322,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Explorável,588652.303,8893260.193
+64,1581,157,Catuaba,197,62.71,65,17,1,0.3088,3.6751,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,588611.62,8893269.755
+65,1582,516,Sumauma preta,210,66.85,65,12,3,0.3509,2.9479,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588560.792,8893221.784
+65,1583,516,Sumauma preta,236,75.12,75,12,1,0.4432,3.723,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588564.482,8893174.432
+65,1584,516,Sumauma preta,233,74.17,75,13,2,0.432,3.9314,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588716.547,8893204.249
+65,1585,516,Sumauma preta,192,61.12,65,13,1,0.2934,2.6695,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588778.985,8893221.205
+65,1586,168,Cedro rosa,129,41.06,45,14,1,0.1324,1.2978,"Cedrela odorata L,",Meliaceae,,Corte futuro,588796.168,8893214.99
+65,1587,374,Marupá,228,72.57,75,15,1,0.4137,4.3436,"Simarouba amara Aubl,",Simaroubaceae,,Explorável,588847.379,8893213.047
+65,1588,160,Caucho,140,44.56,45,11,1,0.156,1.201,"Castilla ulei Warb,",Moraceae,,Corte futuro,588890.645,8893222.802
+65,1589,154,Castanharana vermelha,233,74.17,75,17,1,0.432,5.141,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588934.371,8893221.546
+65,1590,434,Ipê amarelo,160,50.93,55,18,1,0.2037,2.5669,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,588971.352,8893215.402
+66,1591,64,Açacu,410,130.51,135,17,1,1.3377,15.9186,"Hura crepitans L,",Euphorbiaceae,,APP,589034.214,8893158.507
+66,1592,516,Sumauma preta,203,64.62,65,12,2,0.3279,2.7546,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,589019.09,8893168.517
+66,1593,516,Sumauma preta,173,55.07,55,11,1,0.2382,1.8339,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588989.61,8893165.086
+66,1594,264,Guariúba,150,47.75,45,14,1,0.179,1.7547,"Clarisia racemosa Ruiz & Pav,",Moraceae,,APP,588957.331,8893155.1
+66,1595,716,Manitê,283,90.08,95,17,1,0.6373,7.5842,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,588954.313,8893156.924
+66,1596,505,Seringueira,,,#VALUE!,,,,,"Hevea brasiliensis (Willd, ex A, Juss) M³ll, Arg",Euphorbiaceae,,APP,588927.866,8893131.548
+66,1597,322,Jutaí,157,49.97,45,15,1,0.1962,2.0596,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Corte futuro,588926.162,8893133.23
+66,1598,513,Sumauma branca,471,149.92,145,20,1,1.7654,24.715,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588879.179,8893151.27
+66,1599,304,Jatobá,265,84.35,85,18,2,0.5588,7.0413,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588885.997,8893155.48
+66,1600,160,Caucho,185,58.89,55,11,3,0.2724,2.0971,"Castilla ulei Warb,",Moraceae,Oco,Porta Semente,588780.814,8893180.355
+66,1601,374,Marupá,196,62.39,65,15,1,0.3057,3.2099,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,588764.347,8893137.604
+66,1602,160,Caucho,131,41.7,45,14,1,0.1366,1.3383,"Castilla ulei Warb,",Moraceae,,Corte futuro,588696.788,8893119.187
+66,1603,192,Cumaru ferro,375,119.37,115,17,1,1.1191,13.3168,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588669.123,8893110.154
+66,1604,255,Garapeira,151,48.06,45,15,2,0.1814,1.9052,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Corte futuro,588578.014,8893134.744
+66,1605,263,Guaribeiro,188,59.84,55,17,1,0.2813,3.347,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588568.594,8893146.734
+67,1606,716,Manitê,223,70.98,75,16,1,0.3957,4.4322,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588572.128,8893114.752
+67,1607,577,Marfim roxo,149,47.43,45,12,2,0.1767,1.484,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Corte futuro,588662.091,8893078.279
+67,1608,160,Caucho,113,35.97,35,11,1,0.1016,0.7824,"Castilla ulei Warb,",Moraceae,,Corte futuro,588685.345,8893083.152
+67,1609,716,Manitê,355,113,115,15,1,1.0029,10.5302,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588707.561,8893080.188
+67,1610,516,Sumauma preta,207,65.89,65,15,1,0.341,3.5803,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588753.934,8893101.882
+67,1611,192,Cumaru ferro,170,54.11,55,18,1,0.23,2.8977,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,588766.649,8893106.216
+67,1612,263,Guaribeiro,220,70.03,75,17,1,0.3852,4.5833,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588800.495,8893102.935
+67,1613,255,Garapeira,188,59.84,55,19,1,0.2813,3.7407,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588916.215,8893122.985
+67,1614,513,Sumauma branca,273,86.9,85,20,1,0.5931,8.3032,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,APP,588956.249,8893103.525
+68,1615,64,Açacu,435,138.46,135,16,2,1.5058,16.865,"Hura crepitans L,",Euphorbiaceae,,APP,588994.632,8893059.388
+68,1616,45,Angico,239,76.08,75,15,1,0.4546,4.7728,"Parkia nitida Miq,",Mimosaceae,,Explorável,588914.218,8893043.422
+68,1617,64,Açacu,249,79.26,75,14,2,0.4934,4.8352,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588907.138,8893025.848
+68,1618,528,Tamarina,187,59.52,55,13,1,0.2783,2.5323,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588910.217,8893026.48
+68,1619,154,Castanharana vermelha,223,70.98,75,19,1,0.3957,5.2632,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588912.772,8893023.332
+68,1620,160,Caucho,151,48.06,45,11,1,0.1814,1.3971,"Castilla ulei Warb,",Moraceae,,Corte futuro,588688.137,8893015.506
+68,1621,168,Cedro rosa,158,50.29,55,15,2,0.1987,2.0859,"Cedrela odorata L,",Meliaceae,,Porta Semente,588679.95,8893014.766
+68,1622,571,Castanharana branca,197,62.71,65,16,1,0.3088,3.4589,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588661.563,8893013.171
+69,1623,516,Sumauma preta,250,79.58,75,12,2,0.4974,4.1778,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588611.963,8892990.279
+69,1624,192,Cumaru ferro,474,150.88,155,20,1,1.7879,25.0308,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588651.478,8892991.452
+69,1625,9,Abiurana vermelha,223,70.98,75,13,1,0.3957,3.6012,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,588682.677,8892980.485
+69,1626,322,Jutaí,206,65.57,65,16,1,0.3377,3.7822,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588789.442,8892979.092
+69,1627,64,Açacu,719,228.86,225,15,2,4.1138,43.1954,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588888.162,8892993.984
+70,1628,182,Copaíba,474,150.88,155,20,3,1.7879,25.0308,Copaifera multijuga Hayne,Caesalpiniaceae,Oco,Porta Semente,589097.066,8892978.056
+70,1629,64,Açacu,176,56.02,55,13,1,0.2465,2.2431,"Hura crepitans L,",Euphorbiaceae,,Explorável,589003.322,8892950.955
+70,1630,157,Catuaba,110,35.01,35,14,1,0.0963,0.9436,"Qualea tessmannii Mildbr,",Vochysiaceae,,APP,588982.931,8892944.796
+70,1631,640,Imbiridiba amarela,154,49.02,45,12,2,0.1887,1.5853,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588963.495,8892953.658
+70,1632,577,Marfim roxo,271,86.26,85,10,2,0.5844,4.091,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,APP,588848.959,8892929.268
+70,1633,192,Cumaru ferro,232,73.85,75,15,1,0.4283,4.4973,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,588821.153,8892937.437
+70,1634,160,Caucho,184,58.57,55,10,1,0.2694,1.8859,"Castilla ulei Warb,",Moraceae,,Explorável,588768.755,8892957.613
+70,1635,61,Aroeira,160,50.93,55,18,1,0.2037,2.5669,Astronium lecointei Ducke,Anacardiaceae,,APP,588771.306,8892956.392
+70,1636,64,Açacu,140,44.56,45,10,2,0.156,1.0918,"Hura crepitans L,",Euphorbiaceae,,APP,588721.352,8892939.156
+70,1637,64,Açacu,396,126.05,125,16,1,1.2479,13.9765,"Hura crepitans L,",Euphorbiaceae,,APP,588669.415,8892907.224
+70,1638,716,Manitê,297,94.54,95,15,1,0.7019,7.3704,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588634.151,8892945.969
+70,1639,263,Guaribeiro,232,73.85,75,17,1,0.4283,5.097,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588590.641,8892942.92
+71,1640,528,Tamarina,117,37.24,35,12,1,0.1089,0.915,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,APP,588625.77,8892896.469
+71,1641,9,Abiurana vermelha,157,49.97,45,12,1,0.1962,1.6477,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,APP,588649.269,8892899.794
+71,1642,511,Sucupira amarela,252,80.21,85,17,1,0.5053,6.0137,"Diplotropis purpurea (Rich,) Amshoff",Fabaceae,,APP,588679.201,8892904.503
+71,1643,610,Amarelão,145,46.15,45,16,1,0.1673,1.8739,Aspidosperma williamsii Duarte,Apocynaceae,,APP,588698.739,8892914.595
+71,1644,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,APP,588916.214,8892910.065
+72,1645,434,Ipê amarelo,210,66.85,65,15,2,0.3509,3.6848,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,589044.83,8892866.141
+72,1646,64,Açacu,263,83.72,85,13,1,0.5504,5.0089,"Hura crepitans L,",Euphorbiaceae,,Explorável,589015.021,8892870.673
+72,1647,64,Açacu,372,118.41,115,16,1,1.1012,12.3337,"Hura crepitans L,",Euphorbiaceae,,Explorável,588973.752,8892850.931
+72,1648,157,Catuaba,196,62.39,65,17,1,0.3057,3.6379,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,588975.171,8892841.52
+72,1649,640,Imbiridiba amarela,142,45.2,45,13,1,0.1605,1.4602,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588915.284,8892849.629
+72,1650,154,Castanharana vermelha,274,87.22,85,18,2,0.5974,7.5277,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588857.859,8892853.663
+72,1651,160,Caucho,135,42.97,45,11,1,0.145,1.1167,"Castilla ulei Warb,",Moraceae,,Corte futuro,588866.399,8892844.745
+72,1652,160,Caucho,173,55.07,55,11,2,0.2382,1.8339,"Castilla ulei Warb,",Moraceae,,Porta Semente,588837.97,8892846.131
+72,1653,264,Guariúba,273,86.9,85,15,1,0.5931,6.2274,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588805.217,8892852.94
+72,1654,255,Garapeira,258,82.12,85,16,1,0.5297,5.9326,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588808.915,8892843.792
+72,1655,467,Pinho cuiabano,185,58.89,55,14,1,0.2724,2.6691,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588793.853,8892837.675
+72,1656,516,Sumauma preta,129,41.06,45,16,1,0.1324,1.4832,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,588728.941,8892826.991
+72,1657,640,Imbiridiba amarela,134,42.65,45,11,1,0.1429,1.1002,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,588645.289,8892850.237
+73,1658,571,Castanharana branca,157,49.97,45,17,1,0.1962,2.3342,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,588654.891,8892798.923
+73,1659,61,Aroeira,158,50.29,55,18,2,0.1987,2.5031,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588761.615,8892788.577
+73,1660,264,Guariúba,198,63.03,65,14,2,0.312,3.0574,"Clarisia racemosa Ruiz & Pav,",Moraceae,,Rara,588791.712,8892804.213
+73,1661,322,Jutaí,227,72.26,75,18,1,0.4101,5.1667,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,588802.899,8892802.943
+73,1662,255,Garapeira,163,51.88,55,16,1,0.2114,2.368,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588804.524,8892791.447
+73,1663,157,Catuaba,210,66.85,65,17,1,0.3509,4.1761,"Qualea tessmannii Mildbr,",Vochysiaceae,,Explorável,588831.829,8892814.597
+73,1664,322,Jutaí,179,56.98,55,18,2,0.255,3.2127,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588851.868,8892815.854
+73,1665,610,Amarelão,153,48.7,45,19,1,0.1863,2.4776,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588863.143,8892809.385
+73,1666,528,Tamarina,148,47.11,45,15,1,0.1743,1.8302,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Corte futuro,588878.456,8892808.995
+73,1667,528,Tamarina,208,66.21,65,9,2,0.3443,2.169,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,588871.576,8892813.322
+73,1668,154,Castanharana vermelha,168,53.48,55,16,1,0.2246,2.5155,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,588888.093,8892805.523
+73,1669,160,Caucho,188,59.84,55,11,2,0.2813,2.1657,"Castilla ulei Warb,",Moraceae,,APP,588888.759,8892811.194
+73,1670,467,Pinho cuiabano,169,53.79,55,16,1,0.2273,2.5455,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588968.335,8892818.969
+73,1671,160,Caucho,133,42.34,45,12,1,0.1408,1.1824,"Castilla ulei Warb,",Moraceae,,Corte futuro,589092.883,8892835.178
+74,1672,467,Pinho cuiabano,181,57.61,55,15,2,0.2607,2.7374,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,589117.404,8892754.251
+74,1673,61,Aroeira,140,44.56,45,13,1,0.156,1.4193,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,589012.876,8892794.122
+74,1674,369,Marfim,124,39.47,35,13,1,0.1224,1.1135,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,589002.528,8892792.692
+74,1675,610,Amarelão,120,38.2,35,15,2,0.1146,1.2032,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,589002.735,8892787.149
+74,1676,61,Aroeira,201,63.98,65,18,1,0.3215,4.0509,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588996.201,8892812.523
+74,1677,610,Amarelão,198,63.03,65,16,2,0.312,3.4941,Aspidosperma williamsii Duarte,Apocynaceae,,APP,588894.388,8892742.715
+74,1678,255,Garapeira,220,70.03,75,15,1,0.3852,4.0441,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,APP,588885.893,8892758.798
+74,1679,154,Castanharana vermelha,196,62.39,65,17,1,0.3057,3.6379,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588837.006,8892756.972
+74,1680,160,Caucho,165,52.52,55,12,1,0.2166,1.8199,"Castilla ulei Warb,",Moraceae,,Explorável,588820.381,8892773.233
+74,1681,154,Castanharana vermelha,220,70.03,75,14,1,0.3852,3.7745,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588816.905,8892771.74
+74,1682,182,Copaíba,339,107.91,105,14,1,0.9145,8.9622,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588845.59,8892750.825
+74,1683,528,Tamarina,188,59.84,55,10,1,0.2813,1.9688,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588849.64,8892757.988
+74,1684,528,Tamarina,170,54.11,55,15,1,0.23,2.4148,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588802.18,8892757.41
+74,1685,528,Tamarina,243,77.35,75,16,1,0.4699,5.2628,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588766.553,8892794.089
+74,1686,154,Castanharana vermelha,209,66.53,65,16,1,0.3476,3.8931,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,APP,588725.348,8892785.543
+74,1687,61,Aroeira,167,53.16,55,18,1,0.2219,2.7964,Astronium lecointei Ducke,Anacardiaceae,,APP,588640.465,8892745.416
+75,1688,154,Castanharana vermelha,236,75.12,75,15,1,0.4432,4.6538,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Porta Semente,588623.086,8892689.821
+75,1689,160,Caucho,229,72.89,75,16,1,0.4173,4.6739,"Castilla ulei Warb,",Moraceae,,APP,588633.549,8892700.825
+75,1690,192,Cumaru ferro,314,99.95,95,15,1,0.7846,8.2383,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588735.072,8892712.541
+75,1691,307,Jequitibá,206,65.57,65,16,1,0.3377,3.7822,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,588774.784,8892670.671
+75,1692,61,Aroeira,229,72.89,75,16,3,0.4173,4.6739,Astronium lecointei Ducke,Anacardiaceae,Oco,Porta Semente,588778.802,8892709.504
+75,1693,255,Garapeira,220,70.03,75,15,1,0.3852,4.0441,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588756.388,8892713.758
+75,1694,267,Imbirindiba,226,71.94,75,14,2,0.4064,3.9832,"Terminalia oblonga (Ruiz & Pav,) Steud,",Combretaceae,,Rara,588840.738,8892728.046
+75,1695,528,Tamarina,167,53.16,55,12,1,0.2219,1.8642,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588855.485,8892747.482
+75,1696,246,Figueira,377,120,125,16,2,1.131,12.6675,"Ficus maxima Mill,",Moraceae,,APP,588966.194,8892699.182
+75,1697,434,Ipê amarelo,133,42.34,45,15,1,0.1408,1.478,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588989.485,8892719.273
+76,1698,246,Figueira,307,97.72,95,14,1,0.75,7.3501,"Ficus maxima Mill,",Moraceae,,Explorável,589082.334,8892651.97
+76,1699,255,Garapeira,187,59.52,55,14,2,0.2783,2.7271,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,APP,588990.048,8892641.761
+76,1700,160,Caucho,176,56.02,55,12,2,0.2465,2.0706,"Castilla ulei Warb,",Moraceae,,APP,588972.589,8892643.945
+76,1701,571,Castanharana branca,207,65.89,65,17,1,0.341,4.0577,"Eschweilera juruensis R, Knuth",Lecythidaceae,,APP,588946.272,8892656.17
+76,1702,263,Guaribeiro,257,81.81,85,18,1,0.5256,6.6226,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588945.744,8892665.468
+76,1703,168,Cedro rosa,223,70.98,75,14,2,0.3957,3.8782,"Cedrela odorata L,",Meliaceae,,APP,588945.466,8892653.234
+76,1704,640,Imbiridiba amarela,181,57.61,55,14,2,0.2607,2.5549,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Porta Semente,588885.128,8892642.029
+76,1705,369,Marfim,134,42.65,45,15,1,0.1429,1.5003,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,588859.575,8892643.714
+76,1706,571,Castanharana branca,168,53.48,55,16,1,0.2246,2.5155,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588837.367,8892634.955
+76,1707,304,Jatobá,270,85.94,85,15,1,0.5801,6.0913,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588833.492,8892646.772
+76,1708,610,Amarelão,190,60.48,65,17,1,0.2873,3.4186,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588847.057,8892626.478
+76,1709,263,Guaribeiro,213,67.8,65,15,1,0.361,3.7909,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588810.34,8892627.542
+76,1710,394,Mulateiro,231,73.53,75,14,2,0.4246,4.1614,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,588809.587,8892623.966
+76,1711,263,Guaribeiro,223,70.98,75,16,1,0.3957,4.4322,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588773.798,8892617.427
+76,1712,516,Sumauma preta,159,50.61,55,11,2,0.2012,1.5491,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588759.819,8892611.122
+76,1713,577,Marfim roxo,181,57.61,55,12,1,0.2607,2.1899,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588726.667,8892608.173
+76,1714,467,Pinho cuiabano,232,73.85,75,15,1,0.4283,4.4973,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588718.922,8892608.257
+76,1715,467,Pinho cuiabano,188,59.84,55,16,1,0.2813,3.1501,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,APP,588676.13,8892618.928
+77,1716,154,Castanharana vermelha,191,60.8,65,17,1,0.2903,3.4546,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588750.33,8892577.557
+77,1717,168,Cedro rosa,220,70.03,75,12,1,0.3852,3.2353,"Cedrela odorata L,",Meliaceae,,Explorável,588752.754,8892558.681
+77,1718,263,Guaribeiro,244,77.67,75,17,1,0.4738,5.6379,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588798.061,8892599.127
+77,1719,154,Castanharana vermelha,163,51.88,55,14,1,0.2114,2.072,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588830.874,8892602.207
+77,1720,291,Itaúba,263,83.72,85,17,1,0.5504,6.5501,"Mezilaurus itauba (Meisn,) Taub, ex Mez",Lauraceae,,Rara,588856.109,8892601.774
+77,1721,322,Jutaí,213,67.8,65,15,1,0.361,3.7909,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,588878.788,8892611.775
+77,1722,304,Jatobá,271,86.26,85,19,1,0.5844,7.7729,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588946.52,8892618.967
+77,1723,462,Pereiro,159,50.61,55,14,1,0.2012,1.9716,"Aspidosperma macrocarpon Mart,",Apocynaceae,,Rara,589063.188,8892632.721
+78,1724,157,Catuaba,223,70.98,75,15,2,0.3957,4.1552,"Qualea tessmannii Mildbr,",Vochysiaceae,,APP,589049.608,8892565.04
+78,1725,61,Aroeira,159,50.61,55,17,1,0.2012,2.394,Astronium lecointei Ducke,Anacardiaceae,,Porta Semente,588952.794,8892558.837
+78,1726,640,Imbiridiba amarela,229,72.89,75,16,2,0.4173,4.6739,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588951.781,8892561.713
+78,1727,160,Caucho,178,56.66,55,11,2,0.2521,1.9414,"Castilla ulei Warb,",Moraceae,,Porta Semente,588900.776,8892550.374
+78,1728,9,Abiurana vermelha,172,54.75,55,12,2,0.2354,1.9775,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,588899.188,8892539.682
+78,1729,571,Castanharana branca,183,58.25,55,13,1,0.2665,2.4251,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,588882.575,8892541.79
+78,1730,160,Caucho,179,56.98,55,10,2,0.255,1.7848,"Castilla ulei Warb,",Moraceae,,Porta Semente,588835.33,8892549.923
+78,1731,154,Castanharana vermelha,195,62.07,65,18,1,0.3026,3.8127,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588638.161,8892536.413
+79,1732,516,Sumauma preta,188,59.84,55,11,2,0.2813,2.1657,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588689.377,8892484.413
+79,1733,168,Cedro rosa,183,58.25,55,12,1,0.2665,2.2386,"Cedrela odorata L,",Meliaceae,,Explorável,588679.376,8892474.65
+79,1734,160,Caucho,223,70.98,75,10,1,0.3957,2.7701,"Castilla ulei Warb,",Moraceae,,Explorável,588722.446,8892471.986
+79,1735,255,Garapeira,220,70.03,75,15,1,0.3852,4.0441,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588726.584,8892462.365
+79,1736,516,Sumauma preta,251,79.9,75,13,2,0.5013,4.5622,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588784.117,8892506.043
+79,1737,61,Aroeira,136,43.29,45,16,1,0.1472,1.6485,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588822.301,8892507.961
+79,1738,160,Caucho,141,44.88,45,11,1,0.1582,1.2182,"Castilla ulei Warb,",Moraceae,,Corte futuro,588837.448,8892507.163
+79,1739,157,Catuaba,269,85.63,85,15,2,0.5758,6.0462,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,588884.263,8892518.532
+79,1740,263,Guaribeiro,223,70.98,75,16,1,0.3957,4.4322,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588881.039,8892537.465
+79,1741,40,Angelim,197,62.71,65,13,2,0.3088,2.8104,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588921.846,8892541.054
+79,1742,75,Bálsamo,222,70.66,75,15,1,0.3922,4.118,"Myroxylon balsamum (L,) Harms",Fabaceae,,Rara,588925.029,8892531.601
+79,1743,154,Castanharana vermelha,121,38.52,35,17,1,0.1165,1.3865,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Corte futuro,588922.246,8892550.404
+79,1744,160,Caucho,229,72.89,75,13,1,0.4173,3.7975,"Castilla ulei Warb,",Moraceae,,Explorável,588985.039,8892521.833
+79,1745,516,Sumauma preta,226,71.94,75,15,2,0.4064,4.2677,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,589056.684,8892524.826
+79,1746,716,Manitê,220,70.03,75,14,1,0.3852,3.7745,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,589116.861,8892515.428
+80,1747,168,Cedro rosa,130,41.38,45,11,1,0.1345,1.0355,"Cedrela odorata L,",Meliaceae,,Corte futuro,589133.92,8892463.103
+80,1748,154,Castanharana vermelha,195,62.07,65,16,1,0.3026,3.389,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,589110.582,8892461.437
+80,1749,168,Cedro rosa,129,41.06,45,10,1,0.1324,0.927,"Cedrela odorata L,",Meliaceae,,Corte futuro,589110.134,8892462.476
+80,1750,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,APP,589071.658,8892472.498
+80,1751,516,Sumauma preta,190,60.48,65,10,1,0.2873,2.0109,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,589000.399,8892484.518
+80,1752,45,Angico,188,59.84,55,13,1,0.2813,2.5595,"Parkia nitida Miq,",Mimosaceae,,Porta Semente,588950.121,8892477.172
+80,1753,160,Caucho,214,68.12,65,10,1,0.3644,2.551,"Castilla ulei Warb,",Moraceae,,Explorável,588945.162,8892489.159
+80,1754,516,Sumauma preta,314,99.95,95,14,2,0.7846,7.6891,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588949.834,8892483.494
+80,1755,263,Guaribeiro,198,63.03,65,16,1,0.312,3.4941,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588944.02,8892487.92
+80,1756,304,Jatobá,142,45.2,45,17,1,0.1605,1.9095,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588939.748,8892495.261
+80,1757,462,Pereiro,186,59.21,55,12,2,0.2753,2.3126,"Aspidosperma macrocarpon Mart,",Apocynaceae,,Rara,588841.721,8892470.506
+80,1758,263,Guaribeiro,207,65.89,65,16,2,0.341,3.819,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588801.915,8892440.371
+80,1759,716,Manitê,258,82.12,85,16,1,0.5297,5.9326,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588734.848,8892427.403
+80,1760,382,Mogno/Aguano,267,84.99,85,17,3,0.5673,6.7509,Swietenia macrophylla King,Meliaceae,,Proibida,588732.761,8892422.969
+80,1761,263,Guaribeiro,193,61.43,65,15,1,0.2964,3.1124,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588730.63,8892430.286
+81,1762,291,Itaúba,239,76.08,75,15,3,0.4546,4.7728,"Mezilaurus itauba (Meisn,) Taub, ex Mez",Lauraceae,,Rara,588676.806,8892404.217
+81,1763,255,Garapeira,273,86.9,85,16,1,0.5931,6.6425,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588717.446,8892400.141
+81,1764,263,Guaribeiro,209,66.53,65,15,1,0.3476,3.6498,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588730.68,8892413.455
+81,1765,516,Sumauma preta,214,68.12,65,16,1,0.3644,4.0816,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588779.424,8892417.265
+81,1766,263,Guaribeiro,250,79.58,75,15,1,0.4974,5.2223,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588783.453,8892407.876
+81,1767,516,Sumauma preta,146,46.47,45,11,1,0.1696,1.3061,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Corte futuro,588784.003,8892422.602
+81,1768,168,Cedro rosa,187,59.52,55,15,2,0.2783,2.9219,"Cedrela odorata L,",Meliaceae,,Porta Semente,588866.453,8892418.812
+81,1769,516,Sumauma preta,283,90.08,95,14,1,0.6373,6.2458,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588874.358,8892424.307
+81,1770,528,Tamarina,203,64.62,65,14,1,0.3279,3.2137,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Explorável,588995.701,8892423.285
+81,1771,154,Castanharana vermelha,192,61.12,65,16,1,0.2934,3.2856,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,589130.954,8892434.036
+82,1772,516,Sumauma preta,242,77.03,75,12,3,0.466,3.9147,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,589134.627,8892392.533
+82,1773,263,Guaribeiro,229,72.89,75,17,1,0.4173,4.966,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,589128.631,8892389.675
+82,1774,160,Caucho,139,44.25,45,16,2,0.1538,1.722,"Castilla ulei Warb,",Moraceae,,Corte futuro,589141.17,8892381.932
+82,1775,255,Garapeira,333,106,105,16,3,0.8824,9.8832,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,589060.222,8892383.763
+82,1776,571,Castanharana branca,157,49.97,45,16,1,0.1962,2.1969,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Corte futuro,589015.351,8892371.343
+82,1777,610,Amarelão,146,46.47,45,17,1,0.1696,2.0186,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588998.306,8892369.764
+82,1778,513,Sumauma branca,251,79.9,75,17,1,0.5013,5.966,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,588941.866,8892366.687
+82,1779,255,Garapeira,220,70.03,75,16,1,0.3852,4.3137,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588947.984,8892355.485
+82,1780,307,Jequitibá,314,99.95,95,17,2,0.7846,9.3368,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,588924.779,8892344.42
+82,1781,467,Pinho cuiabano,182,57.93,55,16,1,0.2636,2.9522,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588785.882,8892372.076
+82,1782,467,Pinho cuiabano,220,70.03,75,17,1,0.3852,4.5833,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588772.524,8892372.09
+82,1783,716,Manitê,314,99.95,95,14,2,0.7846,7.6891,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588680.97,8892349.191
+82,1784,716,Manitê,293,93.26,95,16,1,0.6832,7.6514,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588659.264,8892346.223
+82,1785,154,Castanharana vermelha,185,58.89,55,17,1,0.2724,3.241,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588667.484,8892334.237
+83,1786,263,Guaribeiro,195,62.07,65,16,1,0.3026,3.389,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588662.361,8892279.354
+83,1787,246,Figueira,245,77.99,75,15,2,0.4777,5.0155,"Ficus maxima Mill,",Moraceae,,Porta Semente,588664.276,8892284.734
+83,1788,192,Cumaru ferro,251,79.9,75,16,1,0.5013,5.6151,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588679.541,8892264.844
+83,1789,192,Cumaru ferro,314,99.95,95,17,1,0.7846,9.3368,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588724.944,8892311.129
+83,1790,154,Castanharana vermelha,196,62.39,65,16,1,0.3057,3.4239,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588752.213,8892282.497
+83,1791,246,Figueira,335,106.63,105,15,2,0.8931,9.3771,"Ficus maxima Mill,",Moraceae,,Porta Semente,588878.818,8892273.26
+83,1792,61,Aroeira,201,63.98,65,20,1,0.3215,4.501,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588977.572,8892313.593
+83,1793,263,Guaribeiro,283,90.08,95,17,1,0.6373,7.5842,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588995.993,8892299.803
+83,1794,255,Garapeira,283,90.08,95,17,1,0.6373,7.5842,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,589094.225,8892318.06
+84,1795,640,Imbiridiba amarela,159,50.61,55,10,1,0.2012,1.4083,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,589043.934,8892260.999
+84,1796,716,Manitê,177,56.34,55,15,1,0.2493,2.6177,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,589029.555,8892263.954
+84,1797,61,Aroeira,173,55.07,55,17,1,0.2382,2.8342,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588928.943,8892278.16
+84,1798,610,Amarelão,204,64.94,65,18,2,0.3312,4.1727,Aspidosperma williamsii Duarte,Apocynaceae,,Porta Semente,588908.611,8892258.858
+84,1799,577,Marfim roxo,148,47.11,45,11,2,0.1743,1.3422,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Corte futuro,588868.989,8892258.761
+84,1800,61,Aroeira,220,70.03,75,18,1,0.3852,4.853,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588771.083,8892230.484
+84,1801,160,Caucho,188,59.84,55,10,1,0.2813,1.9688,"Castilla ulei Warb,",Moraceae,,Explorável,588763.828,8892239.158
+84,1802,160,Caucho,153,48.7,45,16,1,0.1863,2.0864,"Castilla ulei Warb,",Moraceae,,Corte futuro,588733.439,8892242.653
+84,1803,291,Itaúba,173,55.07,55,14,1,0.2382,2.334,"Mezilaurus itauba (Meisn,) Taub, ex Mez",Lauraceae,,Rara,588732.039,8892252.369
+84,1804,182,Copaíba,332,105.68,105,15,1,0.8771,9.2099,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588727.792,8892243.918
+85,1805,160,Caucho,157,49.97,45,10,1,0.1962,1.3731,"Castilla ulei Warb,",Moraceae,,Corte futuro,588672.174,8892197.506
+85,1806,467,Pinho cuiabano,168,53.48,55,14,1,0.2246,2.2011,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588712.126,8892205.354
+85,1807,255,Garapeira,198,63.03,65,17,1,0.312,3.7125,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588715.158,8892220.519
+85,1808,160,Caucho,176,56.02,55,11,2,0.2465,1.898,"Castilla ulei Warb,",Moraceae,,Porta Semente,588769.175,8892209.097
+85,1809,255,Garapeira,192,61.12,65,15,1,0.2934,3.0802,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588784.985,8892216.834
+85,1810,307,Jequitibá,232,73.85,75,16,1,0.4283,4.7972,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,588822.167,8892218.309
+85,1811,307,Jequitibá,298,94.86,95,16,1,0.7067,7.9148,Cariniana micrantha Ducke,Lecythidaceae,,Explorável,588845.955,8892209.001
+85,1812,610,Amarelão,171,54.43,55,17,2,0.2327,2.769,Aspidosperma williamsii Duarte,Apocynaceae,,Porta Semente,588866.835,8892208.319
+85,1813,192,Cumaru ferro,220,70.03,75,15,1,0.3852,4.0441,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,588885.201,8892213.001
+85,1814,255,Garapeira,200,63.66,65,15,2,0.3183,3.3423,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,588971.385,8892222.353
+85,1815,168,Cedro rosa,173,55.07,55,10,1,0.2382,1.6672,"Cedrela odorata L,",Meliaceae,,Explorável,589016.73,8892218.858
+85,1816,304,Jatobá,273,86.9,85,15,2,0.5931,6.2274,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,589017.007,8892238.043
+85,1817,160,Caucho,139,44.25,45,11,1,0.1538,1.1839,"Castilla ulei Warb,",Moraceae,,Corte futuro,589110.927,8892229.238
+85,1818,255,Garapeira,213,67.8,65,15,2,0.361,3.7909,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,589128.186,8892216.952
+86,1819,571,Castanharana branca,223,70.98,75,18,2,0.3957,4.9862,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,589147.846,8892180.127
+86,1820,155,Castanheira,,,#VALUE!,,,,,"Bertholletia excelsa Kunth,",Lecythidaceae,,Proibida,589093.056,8892194.508
+86,1821,571,Castanharana branca,169,53.79,55,15,1,0.2273,2.3865,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Explorável,589033.635,8892167.517
+86,1822,610,Amarelão,193,61.43,65,17,1,0.2964,3.5274,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,589018.109,8892170.882
+86,1823,160,Caucho,171,54.43,55,13,1,0.2327,2.1175,"Castilla ulei Warb,",Moraceae,,Explorável,588953.369,8892173.758
+86,1824,168,Cedro rosa,149,47.43,45,12,1,0.1767,1.484,"Cedrela odorata L,",Meliaceae,,Corte futuro,588943.706,8892181.65
+86,1825,61,Aroeira,150,47.75,45,16,1,0.179,2.0054,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,588901.034,8892166.518
+86,1826,170,Cerejeira,266,84.67,85,15,1,0.5631,5.9121,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Explorável,588812.165,8892200.733
+86,1827,610,Amarelão,145,46.15,45,15,2,0.1673,1.7568,Aspidosperma williamsii Duarte,Apocynaceae,,Corte futuro,588693.868,8892162.477
+87,1828,513,Sumauma branca,421,134.01,135,20,1,1.4104,19.7461,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Explorável,588813.795,8892105.294
+87,1829,322,Jutaí,259,82.44,85,16,1,0.5338,5.9787,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Explorável,588926.945,8892127.278
+87,1830,267,Imbirindiba,179,56.98,55,14,1,0.255,2.4987,"Terminalia oblonga (Ruiz & Pav,) Steud,",Combretaceae,,Rara,588929.4,8892117.113
+87,1831,160,Caucho,145,46.15,45,11,1,0.1673,1.2883,"Castilla ulei Warb,",Moraceae,,Corte futuro,588992.833,8892128.338
+87,1832,255,Garapeira,207,65.89,65,15,1,0.341,3.5803,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,589108.721,8892113.585
+87,1833,571,Castanharana branca,179,56.98,55,15,2,0.255,2.6772,"Eschweilera juruensis R, Knuth",Lecythidaceae,,Porta Semente,589084.946,8892042.75
+87,1834,168,Cedro rosa,179,56.98,55,10,2,0.255,1.7848,"Cedrela odorata L,",Meliaceae,,Porta Semente,589041.515,8892084.741
+88,1835,716,Manitê,258,82.12,85,15,1,0.5297,5.5618,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,589046.791,8892108.112
+88,1836,716,Manitê,245,77.99,75,15,1,0.4777,5.0155,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588929.086,8892053.154
+88,1837,160,Caucho,197,62.71,65,11,1,0.3088,2.378,"Castilla ulei Warb,",Moraceae,,Explorável,588912.944,8892056.159
+88,1838,160,Caucho,183,58.25,55,13,2,0.2665,2.4251,"Castilla ulei Warb,",Moraceae,,Explorável,588910.441,8892039.613
+88,1839,154,Castanharana vermelha,192,61.12,65,17,1,0.2934,3.4909,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588882.332,8892047.754
+88,1840,610,Amarelão,197,62.71,65,17,2,0.3088,3.6751,Aspidosperma williamsii Duarte,Apocynaceae,,Porta Semente,588876.227,8892053.21
+88,1841,263,Guaribeiro,203,64.62,65,12,2,0.3279,2.7546,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588856.304,8892046.771
+88,1842,170,Cerejeira,182,57.93,55,15,1,0.2636,2.7677,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588782.813,8892058.259
+88,1843,255,Garapeira,170,54.11,55,14,2,0.23,2.2538,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,588775.569,8892063.662
+88,1844,45,Angico,237,75.44,75,15,1,0.447,4.6933,"Parkia nitida Miq,",Mimosaceae,,Explorável,588716.743,8892046.781
+89,1845,154,Castanharana vermelha,220,70.03,75,20,1,0.3852,5.3922,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588692.176,8892002.12
+89,1846,40,Angelim,257,81.81,85,15,1,0.5256,5.5188,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588714.31,8892009.909
+89,1847,322,Jutaí,173,55.07,55,14,1,0.2382,2.334,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588749.721,8892019.905
+89,1848,170,Cerejeira,122,38.83,35,14,1,0.1184,1.1607,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Corte futuro,588774.648,8892025.6
+89,1849,168,Cedro rosa,188,59.84,55,16,1,0.2813,3.1501,"Cedrela odorata L,",Meliaceae,,Explorável,588786.341,8892032.207
+89,1850,610,Amarelão,174,55.39,55,18,1,0.2409,3.0357,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588831.349,8892015.005
+89,1851,322,Jutaí,208,66.21,65,15,1,0.3443,3.615,Hymenaea oblongifolia Huber,Caesalpiniaceae,,Porta Semente,588844.383,8892025.725
+89,1852,160,Caucho,168,53.48,55,10,2,0.2246,1.5722,"Castilla ulei Warb,",Moraceae,,Porta Semente,588850.479,8892027.582
+89,1853,528,Tamarina,159,50.61,55,13,2,0.2012,1.8307,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,588904.316,8892033.288
+89,1854,168,Cedro rosa,192,61.12,65,10,1,0.2934,2.0535,"Cedrela odorata L,",Meliaceae,,Explorável,588951.873,8892040.178
+89,1855,640,Imbiridiba amarela,183,58.25,55,10,1,0.2665,1.8655,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588963.617,8892026.7
+89,1856,61,Aroeira,151,48.06,45,15,1,0.1814,1.9052,Astronium lecointei Ducke,Anacardiaceae,,Corte futuro,589059.306,8892031.358
+90,1857,610,Amarelão,195,62.07,65,17,2,0.3026,3.6009,Aspidosperma williamsii Duarte,Apocynaceae,,Porta Semente,589169.317,8892039.641
+90,1858,467,Pinho cuiabano,173,55.07,55,13,1,0.2382,2.1673,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,589166.398,8892037.044
+90,1859,516,Sumauma preta,159,50.61,55,13,2,0.2012,1.8307,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,589045.205,8891983.003
+90,1860,3,Abiu branco,265,84.35,85,15,1,0.5588,5.8677,Pouteria oppositifolia (Ducke) Baehni,Sapotaceae,,Rara,589045.317,8891983.791
+90,1861,160,Caucho,192,61.12,65,12,1,0.2934,2.4642,"Castilla ulei Warb,",Moraceae,,Explorável,589040.367,8891969.28
+90,1862,374,Marupá,163,51.88,55,16,1,0.2114,2.368,"Simarouba amara Aubl,",Simaroubaceae,,Porta Semente,588974.901,8891964.418
+90,1863,255,Garapeira,195,62.07,65,15,2,0.3026,3.1772,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,588887.458,8891939.739
+90,1864,716,Manitê,253,80.53,85,16,1,0.5094,5.7049,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588889.633,8891934.858
+90,1865,192,Cumaru ferro,195,62.07,65,15,1,0.3026,3.1772,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Porta Semente,588815.971,8891947.774
+90,1866,160,Caucho,183,58.25,55,16,1,0.2665,2.9848,"Castilla ulei Warb,",Moraceae,,Explorável,588808.613,8891955.624
+91,1867,154,Castanharana vermelha,179,56.98,55,17,1,0.255,3.0342,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588714.735,8891917.697
+91,1868,170,Cerejeira,193,61.43,65,16,1,0.2964,3.3199,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588713.849,8891923.214
+91,1869,610,Amarelão,160,50.93,55,15,1,0.2037,2.139,Aspidosperma williamsii Duarte,Apocynaceae,,Explorável,588710.081,8891919.006
+91,1870,182,Copaíba,368,117.14,115,14,1,1.0777,10.5612,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588728.227,8891916.422
+91,1871,516,Sumauma preta,257,81.81,85,16,2,0.5256,5.8867,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588745.776,8891906.184
+91,1872,154,Castanharana vermelha,243,77.35,75,15,1,0.4699,4.9339,"Eschweilera odora (Poepp, Ex Berg,) Miers",Lecythidaceae,,Explorável,588743.775,8891914.707
+91,1873,255,Garapeira,236,75.12,75,14,1,0.4432,4.3435,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588768.241,8891893.135
+91,1874,255,Garapeira,198,63.03,65,14,2,0.312,3.0574,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Porta Semente,588816.183,8891892.442
+91,1875,160,Caucho,220,70.03,75,11,1,0.3852,2.9657,"Castilla ulei Warb,",Moraceae,,Explorável,588842.832,8891903.155
+91,1876,168,Cedro rosa,158,50.29,55,12,1,0.1987,1.6687,"Cedrela odorata L,",Meliaceae,,Porta Semente,588863.356,8891903.856
+91,1877,610,Amarelão,199,63.34,65,17,2,0.3151,3.7501,Aspidosperma williamsii Duarte,Apocynaceae,,Porta Semente,588974.701,8891920.579
+91,1878,160,Caucho,188,59.84,55,11,1,0.2813,2.1657,"Castilla ulei Warb,",Moraceae,,Explorável,589055.504,8891927.47
+91,1879,182,Copaíba,276,87.85,85,17,1,0.6062,7.2137,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,589124.295,8891898.763
+91,1880,434,Ipê amarelo,168,53.48,55,16,1,0.2246,2.5155,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,589111.772,8891894.521
+92,1881,640,Imbiridiba amarela,184,58.57,55,12,2,0.2694,2.2631,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Porta Semente,589044.383,8891880.739
+92,1882,168,Cedro rosa,128,40.74,45,10,1,0.1304,0.9127,"Cedrela odorata L,",Meliaceae,,Corte futuro,588934.06,8891857.071
+92,1883,168,Cedro rosa,118,37.56,35,10,1,0.1108,0.7756,"Cedrela odorata L,",Meliaceae,,Corte futuro,588870.097,8891854.458
+92,1884,394,Mulateiro,261,83.08,85,16,3,0.5421,6.0714,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,Oco,Porta Semente,588873.668,8891846.061
+92,1885,170,Cerejeira,160,50.93,55,15,2,0.2037,2.139,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588846.32,8891849.669
+92,1886,182,Copaíba,346,110.14,115,15,1,0.9527,10.003,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588838.094,8891832.969
+92,1887,255,Garapeira,220,70.03,75,16,1,0.3852,4.3137,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588813.218,8891866.934
+92,1888,160,Caucho,185,58.89,55,12,1,0.2724,2.2878,"Castilla ulei Warb,",Moraceae,,Explorável,588803.177,8891870.518
+92,1889,170,Cerejeira,193,61.43,65,17,1,0.2964,3.5274,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Explorável,588783.757,8891863.197
+92,1890,170,Cerejeira,188,59.84,55,16,1,0.2813,3.1501,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588738.511,8891869.444
+92,1891,170,Cerejeira,187,59.52,55,15,1,0.2783,2.9219,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588714.175,8891813.31
+93,1892,255,Garapeira,199,63.34,65,17,1,0.3151,3.7501,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588726.112,8891792.279
+93,1893,64,Açacu,271,86.26,85,14,1,0.5844,5.7274,"Hura crepitans L,",Euphorbiaceae,,Explorável,588748.187,8891807.091
+93,1894,75,Bálsamo,158,50.29,55,16,1,0.1987,2.225,"Myroxylon balsamum (L,) Harms",Fabaceae,,Rara,588766.698,8891803.533
+93,1895,369,Marfim,147,46.79,45,12,2,0.172,1.4445,Agonandra brasiliensis Miers ex Benth,Opiliaceae,,Rara,588791.052,8891807.829
+93,1896,192,Cumaru ferro,243,77.35,75,14,1,0.4699,4.605,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588834.447,8891825.795
+93,1897,716,Manitê,322,102.5,105,16,1,0.8251,9.241,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588873.785,8891807.829
+93,1898,716,Manitê,293,93.26,95,14,2,0.6832,6.695,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Porta Semente,588948.132,8891823.18
+93,1899,170,Cerejeira,197,62.71,65,16,1,0.3088,3.4589,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Explorável,588959.117,8891811.085
+93,1900,516,Sumauma preta,205,65.25,65,10,2,0.3344,2.341,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588988.102,8891830.403
+93,1901,263,Guaribeiro,226,71.94,75,18,1,0.4064,5.1213,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,589047.084,8891821.165
+93,1902,160,Caucho,182,57.93,55,12,1,0.2636,2.2142,"Castilla ulei Warb,",Moraceae,,Explorável,589136.612,8891831.028
+93,1903,168,Cedro rosa,172,54.75,55,16,1,0.2354,2.6367,"Cedrela odorata L,",Meliaceae,,APP,589099.362,8891764.629
+94,1904,516,Sumauma preta,181,57.61,55,10,2,0.2607,1.8249,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,589075.018,8891761.158
+94,1905,516,Sumauma preta,220,70.03,75,14,2,0.3852,3.7745,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588887.486,8891761.055
+94,1906,516,Sumauma preta,188,59.84,55,10,2,0.2813,1.9688,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588801.044,8891743.26
+95,1907,394,Mulateiro,182,57.93,55,15,1,0.2636,2.7677,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,588736.188,8891717.163
+95,1908,255,Garapeira,159,50.61,55,17,1,0.2012,2.394,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588755.49,8891691.516
+95,1909,263,Guaribeiro,141,44.88,45,13,2,0.1582,1.4397,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Corte futuro,588761.928,8891683.261
+95,1910,263,Guaribeiro,263,83.72,85,17,1,0.5504,6.5501,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588803.176,8891709.889
+95,1911,61,Aroeira,204,64.94,65,18,1,0.3312,4.1727,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588814.554,8891719.315
+95,1912,577,Marfim roxo,180,57.3,55,10,2,0.2578,1.8048,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,588969.283,8891742.744
+95,1913,516,Sumauma preta,143,45.52,45,11,1,0.1627,1.253,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,589088.04,8891722.06
+95,1914,168,Cedro rosa,179,56.98,55,11,2,0.255,1.9633,"Cedrela odorata L,",Meliaceae,,APP,589126.097,8891724.867
+95,1915,157,Catuaba,193,61.43,65,14,1,0.2964,2.9049,"Qualea tessmannii Mildbr,",Vochysiaceae,,Porta Semente,589171.594,8891723.402
+96,1916,467,Pinho cuiabano,132,42.02,45,14,2,0.1387,1.3588,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Corte futuro,589174.292,8891670.167
+96,1917,160,Caucho,203,64.62,65,10,1,0.3279,2.2955,"Castilla ulei Warb,",Moraceae,,APP,589121.227,8891702.163
+96,1918,263,Guaribeiro,205,65.25,65,16,1,0.3344,3.7456,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,589121.211,8891702.821
+96,1919,528,Tamarina,163,51.88,55,13,1,0.2114,1.924,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,APP,589110.874,8891716.814
+96,1920,64,Açacu,189,60.16,65,9,2,0.2843,1.7908,"Hura crepitans L,",Euphorbiaceae,,APP,589052.425,8891688.653
+96,1921,467,Pinho cuiabano,187,59.52,55,15,1,0.2783,2.9219,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588971.987,8891680.547
+96,1922,160,Caucho,181,57.61,55,10,2,0.2607,1.8249,"Castilla ulei Warb,",Moraceae,,Explorável,588958.692,8891672.396
+96,1923,168,Cedro rosa,146,46.47,45,11,2,0.1696,1.3061,"Cedrela odorata L,",Meliaceae,,Corte futuro,588884.448,8891694.952
+96,1924,263,Guaribeiro,239,76.08,75,18,1,0.4546,5.7274,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588858.278,8891691.912
+96,1925,516,Sumauma preta,170,54.11,55,10,3,0.23,1.6099,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Porta Semente,588746.429,8891633.973
+96,1926,434,Ipê amarelo,153,48.7,45,15,1,0.1863,1.956,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Corte futuro,588816.394,8891616.062
+97,1927,9,Abiurana vermelha,174,55.39,55,13,1,0.2409,2.1925,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Porta Semente,588870.12,8891599.191
+97,1928,64,Açacu,326,103.77,105,14,1,0.8457,8.288,"Hura crepitans L,",Euphorbiaceae,,Explorável,588883.697,8891610.196
+97,1929,263,Guaribeiro,210,66.85,65,17,2,0.3509,4.1761,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588890.338,8891606.12
+97,1930,61,Aroeira,173,55.07,55,17,1,0.2382,2.8342,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588896.974,8891607.355
+97,1931,170,Cerejeira,183,58.25,55,12,2,0.2665,2.2386,"Amburana acreana (Ducke) A, C, Sm,",Fabaceae,,Porta Semente,588953.225,8891627.115
+97,1932,467,Pinho cuiabano,182,57.93,55,15,2,0.2636,2.7677,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588949.686,8891626.039
+97,1933,716,Manitê,297,94.54,95,14,2,0.7019,6.8791,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,588994.44,8891614.223
+97,1934,577,Marfim roxo,188,59.84,55,11,2,0.2813,2.1657,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,APP,589030.454,8891623.032
+97,1935,64,Açacu,452,143.88,145,15,1,1.6258,17.0709,"Hura crepitans L,",Euphorbiaceae,,APP,589048.973,8891633.747
+97,1936,168,Cedro rosa,153,48.7,45,11,2,0.1863,1.4344,"Cedrela odorata L,",Meliaceae,,Corte futuro,589106.443,8891611.426
+97,1937,160,Caucho,149,47.43,45,10,2,0.1767,1.2367,"Castilla ulei Warb,",Moraceae,,Corte futuro,589141.926,8891613.776
+97,1938,640,Imbiridiba amarela,183,58.25,55,15,2,0.2665,2.7982,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Porta Semente,589140.85,8891616.763
+98,1939,307,Jequitibá,204,64.94,65,10,1,0.3312,2.3182,Cariniana micrantha Ducke,Lecythidaceae,,Porta Semente,589188.55,8891585.262
+98,1940,168,Cedro rosa,169,53.79,55,14,1,0.2273,2.2274,"Cedrela odorata L,",Meliaceae,,Porta Semente,589116.298,8891573.411
+98,1941,516,Sumauma preta,287,91.35,95,13,1,0.6555,5.9648,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,589063.093,8891570.669
+98,1942,382,Mogno/Aguano,110,35.01,35,12,1,0.0963,0.8088,Swietenia macrophylla King,Meliaceae,,Proibida,589055.516,8891567.629
+98,1943,64,Açacu,462,147.06,145,10,1,1.6985,11.8897,"Hura crepitans L,",Euphorbiaceae,,APP,589046.205,8891576.948
+98,1944,64,Açacu,197,62.71,65,12,1,0.3088,2.5942,"Hura crepitans L,",Euphorbiaceae,,APP,589031.856,8891554.425
+98,1945,716,Manitê,462,147.06,145,13,1,1.6985,15.4567,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,589015.933,8891560.989
+98,1946,434,Ipê amarelo,183,58.25,55,15,2,0.2665,2.7982,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Porta Semente,588973.024,8891576.044
+98,1947,263,Guaribeiro,251,79.9,75,18,1,0.5013,6.317,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588948.572,8891591.712
+98,1948,528,Tamarina,164,52.2,55,15,2,0.214,2.2473,"Dialium guianense (Aubl,) Sandwith",Caesalpiniaceae,,Porta Semente,588878.904,8891570.076
+98,1949,64,Açacu,299,95.17,95,15,1,0.7114,7.47,"Hura crepitans L,",Euphorbiaceae,,Explorável,588873.844,8891585.65
+98,1950,640,Imbiridiba amarela,428,136.24,135,12,1,1.4577,12.2449,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588799.985,8891551.595
+99,1951,64,Açacu,185,58.89,55,15,1,0.2724,2.8597,"Hura crepitans L,",Euphorbiaceae,,Explorável,588747.653,8891519.285
+99,1952,182,Copaíba,299,95.17,95,17,1,0.7114,8.466,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588771.601,8891511.468
+99,1953,64,Açacu,428,136.24,135,13,2,1.4577,13.2654,"Hura crepitans L,",Euphorbiaceae,,Porta Semente,588840.296,8891492.8
+99,1954,516,Sumauma preta,273,86.9,85,15,1,0.5931,6.2274,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588839.216,8891490.708
+99,1955,160,Caucho,153,48.7,45,10,2,0.1863,1.304,"Castilla ulei Warb,",Moraceae,,Corte futuro,588869.002,8891503.387
+99,1956,246,Figueira,183,58.25,55,15,1,0.2665,2.7982,"Ficus maxima Mill,",Moraceae,,Porta Semente,588915.213,8891497.249
+99,1957,263,Guaribeiro,207,65.89,65,16,2,0.341,3.819,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,APP,588976.833,8891515.17
+99,1958,75,Bálsamo,146,46.47,45,15,1,0.1696,1.7811,"Myroxylon balsamum (L,) Harms",Fabaceae,,APP,589022.41,8891512.62
+99,1959,263,Guaribeiro,229,72.89,75,16,1,0.4173,4.6739,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,589190.166,8891540.39
+100,1960,382,Mogno/Aguano,188,59.84,55,13,1,0.2813,2.5595,Swietenia macrophylla King,Meliaceae,,Proibida,589227.476,8891530.643
+100,1961,577,Marfim roxo,181,57.61,55,10,2,0.2607,1.8249,"Aspidosperma desmanthum Benth, ex M³ll, Arg,",Apocynaceae,,Porta Semente,589193.563,8891487.451
+100,1962,160,Caucho,167,53.16,55,13,1,0.2219,2.0196,"Castilla ulei Warb,",Moraceae,,Explorável,589187.896,8891487.697
+100,1963,192,Cumaru ferro,265,84.35,85,15,1,0.5588,5.8677,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,589185.175,8891479.853
+100,1964,516,Sumauma preta,273,86.9,85,16,2,0.5931,6.6425,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,589157.115,8891473.88
+101,1965,192,Cumaru ferro,324,103.13,105,17,1,0.8354,9.9409,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,APP,589159.116,8891454.782
+101,1966,61,Aroeira,159,50.61,55,16,1,0.2012,2.2532,Astronium lecointei Ducke,Anacardiaceae,,APP,589152.749,8891461.758
+101,1967,640,Imbiridiba amarela,184,58.57,55,14,1,0.2694,2.6403,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,APP,589118.374,8891480.426
+101,1968,61,Aroeira,214,68.12,65,17,1,0.3644,4.3368,Astronium lecointei Ducke,Anacardiaceae,,APP,589044.675,8891478.245
+101,1969,64,Açacu,378,120.32,125,15,1,1.137,11.9389,"Hura crepitans L,",Euphorbiaceae,,Explorável,589022.171,8891460.394
+101,1970,40,Angelim,183,58.25,55,15,2,0.2665,2.7982,Hymenolobium excelsum Ducke,Fabaceae,,Rara,589012.061,8891458.398
+101,1971,467,Pinho cuiabano,220,70.03,75,16,1,0.3852,4.3137,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Explorável,588969.762,8891482.461
+101,1972,263,Guaribeiro,191,60.8,65,16,1,0.2903,3.2514,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588903.4,8891426.765
+101,1973,513,Sumauma branca,295,93.9,95,19,1,0.6925,9.2106,"Ceiba pentandra (L,) Gaertn,",Malvaceae,,Porta Semente,588771.619,8891440.603
+101,1974,640,Imbiridiba amarela,185,58.89,55,12,2,0.2724,2.2878,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588724.087,8891443.463
+101,1975,640,Imbiridiba amarela,173,55.07,55,13,2,0.2382,2.1673,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Porta Semente,588697.15,8891431.249
+101,1976,716,Manitê,272,86.58,85,16,1,0.5887,6.594,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,Explorável,588573.791,8891418.123
+101,1977,61,Aroeira,197,62.71,65,15,1,0.3088,3.2427,Astronium lecointei Ducke,Anacardiaceae,,Explorável,588513.886,8891417.556
+101,1978,160,Caucho,198,63.03,65,16,1,0.312,3.4941,"Castilla ulei Warb,",Moraceae,,Explorável,588499.978,8891425.274
+101,1979,192,Cumaru ferro,251,79.9,75,14,1,0.5013,4.9132,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588446.186,8891441.421
+101,1980,516,Sumauma preta,283,90.08,95,15,2,0.6373,6.6919,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,Explorável,588317.483,8891417.926
+101,1981,160,Caucho,163,51.88,55,10,1,0.2114,1.48,"Castilla ulei Warb,",Moraceae,,Explorável,588401.163,8891377.163
+101,1982,255,Garapeira,173,55.07,55,16,1,0.2382,2.6675,Apuleia molaris Spruce ex Benth,Caesalpiniaceae,,Explorável,588486.084,8891397.012
+101,1983,40,Angelim,159,50.61,55,15,1,0.2012,2.1124,Hymenolobium excelsum Ducke,Fabaceae,,Rara,588582.587,8891386.088
+101,1984,640,Imbiridiba amarela,179,56.98,55,16,1,0.255,2.8557,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,588632.312,8891397.005
+101,1985,64,Açacu,518,164.88,165,13,1,2.1353,19.4308,"Hura crepitans L,",Euphorbiaceae,,Explorável,588665.379,8891403.263
+101,1986,182,Copaíba,383,121.91,125,18,1,1.1673,14.7082,Copaifera multijuga Hayne,Caesalpiniaceae,,Explorável,588734.681,8891369.588
+101,1987,9,Abiurana vermelha,188,59.84,55,13,1,0.2813,2.5595,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,Explorável,588785.884,8891398.99
+101,1988,348,Maçaranduba,251,79.9,75,12,2,0.5013,4.2113,"Manilkara bidentata (A, DC,) subsp, surinamensis (Miq,) T, D, Penn",Sapotaceae,,Rara,588795.941,8891386.75
+101,1989,160,Caucho,157,49.97,45,10,1,0.1962,1.3731,"Castilla ulei Warb,",Moraceae,,Corte futuro,588828.549,8891426.551
+101,1990,192,Cumaru ferro,263,83.72,85,18,1,0.5504,6.9354,"Dipteryx odorata (Aubl,) Willd,",Fabaceae,,Explorável,588864.762,8891385.811
+101,1991,263,Guaribeiro,226,71.94,75,17,1,0.4064,4.8368,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Explorável,588972.896,8891408.706
+101,1992,64,Açacu,283,90.08,95,16,1,0.6373,7.1381,"Hura crepitans L,",Euphorbiaceae,,Explorável,589056.017,8891432.19
+101,1993,246,Figueira,184,58.57,55,13,2,0.2694,2.4517,"Ficus maxima Mill,",Moraceae,,APP,589147.757,8891415.513
+101,1994,9,Abiurana vermelha,251,79.9,75,14,1,0.5013,4.9132,"Pouteria torta (Mart,) Radlk, subsp, tuberculata (Sleumer) T, D, Penn",Sapotaceae,,APP,589173.426,8891401.621
+101,1995,640,Imbiridiba amarela,193,61.43,65,15,1,0.2964,3.1124,"Terminalia amazonica (J, F, Gmel,) Exell",Combretaceae,,Explorável,589208.635,8891412.155
+102,1996,516,Sumauma preta,283,90.08,95,12,2,0.6373,5.3536,"Ceiba samauma (Mart,) K, Schum,",Malvaceae,,APP,589222.19,8891369.738
+102,1997,64,Açacu,485,154.38,155,16,1,1.8719,20.9648,"Hura crepitans L,",Euphorbiaceae,,APP,589173.088,8891380.277
+102,1998,716,Manitê,251,79.9,75,15,1,0.5013,5.2641,"Brosimum alicastrum Sw, subsp, bolivarense (Pittier) C, C, Berg",Moraceae,,APP,589182.186,8891363.034
+102,1999,160,Caucho,183,58.25,55,18,2,0.2665,3.3579,"Castilla ulei Warb,",Moraceae,,Explorável,589060.484,8891336.364
+102,2000,434,Ipê amarelo,250,79.58,75,16,1,0.4974,5.5704,"Tabebuia serratifolia (Vahl) G, Nicholson",Bignoniaceae,,Explorável,589060.784,8891350.043
+102,2001,394,Mulateiro,210,66.85,65,16,2,0.3509,3.9305,"Calycophyllum spruceanum (Benth,) K, Schum,",Rubiaceae,,Porta Semente,588926.863,8891363.915
+102,2002,263,Guaribeiro,278,88.49,85,17,2,0.615,7.3186,"Phyllocarpus riedelii Tul,",Caesalpiniaceae,,Porta Semente,588897.639,8891362.717
+102,2003,467,Pinho cuiabano,191,60.8,65,12,2,0.2903,2.4386,"Schizolobium amazonicum Huber ex Ducke,",Caesalpiniaceae,,Porta Semente,588879.778,8891369.073
+102,2004,64,Açacu,253,80.53,85,12,1,0.5094,4.2787,"Hura crepitans L,",Euphorbiaceae,,Explorável,588792.96,8891347.506
+102,2005,304,Jatobá,263,83.72,85,17,1,0.5504,6.5501,"Hymenaea courbaril L,",Caesalpiniaceae,,Rara,588774.135,8891349.611
