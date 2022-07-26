@@ -1,0 +1,208 @@
+---
+title: "02material.Rmd"
+---
+
+Importar base de dados do censo florestal.
+
+```{r}
+censo = read.csv('data/censo.csv', encoding = "UTF-8")
+censo$tag = paste('tag', censo$placa, sep="")
+for(i in (1:nrow(censo))){
+	censo$genero[i] = strsplit(censo$cientifico[i], " +")[[1]][1]
+}
+for(i in (1:nrow(censo))){
+	censo$epiteto[i] = strsplit(censo$cientifico[i], " +")[[1]][2]
+}
+censo = censo %>%
+  filter(dap >= 50) %>%
+  filter(!is.na(dap))
+
+censo$chave = paste(censo$genero,"_",censo$epiteto, sep="")
+```
+
+### BDq clássico como PL
+
+Descrever BDq clássico.
+
+### Desenvolvimento rodada 1
+
+1. Flexibilizar q alvo
+2. Implementar árvore individual
+3. Incluir restrição de volume produzido
+
+```
+/*  Considerando quociente de Liocourt entre 1.5 e 2, paras as árvores remanescentes  */
+/*  Removendo as classes que tem menos de 3 árvores  */
+2 N65 >= N55;
+2 N75 >= N65;
+2 N85 >= N75;
+2 N95 >= N85;
+2 N105 >= N95;
+2 N115 >= N105;
+2 N125 >= N115;
+2 N135 >= N125;
+2 N145 >= N135;
+2 N155 >= N145;
+
+
+1.5 N65 <= N55;
+1.5 N75 <= N65;
+1.5 N85 <= N75;
+1.5 N95 <= N85;
+1.5 N105 <= N95;
+1.5 N115 <= N105;
+1.5 N125 <= N115;
+1.5 N135 <= N125;
+1.5 N145 <= N135;
+1.5 N155 <= N145;
+```
+
+1. Filtrar árvores numa determinada classe
+
+- Futuro: Incluir looping para montar a restrição para cada CC
+
+```{r}
+arv_cc = censo %>% filter(cc == '115')
+
+string = 'NC115 =' 
+for(i in arv_cc$tag){
+   string = paste(string, i, "+")
+}
+print(string)
+
+```
+
+2. Criar restrição de variáveis binárias
+
+- Futuro: Sintaxe completa LPSolve.
+
+```{r}
+string = 'BIN' 
+for(i in censo$tag){
+   string = paste(string, i)
+}
+print(string)
+```
+
+1.  Restrição de volume produzido
+
+- Futuro: Sintaxe completa LPSolve.
+
+```{r}
+string = 'VOL: ' 
+for(i in seq(1, dim(censo)[1])){
+   string = paste(string, censo$volume[i], censo$tag[i], "+")
+}
+print(string)
+```
+
+### Desenvolvimento rodada 2
+
+1. Orientar árvores que são cortadas para as comerciais (i.e. restrição para as não comerciais)
+
+```{r}
+snif = read.csv2('data/especies_florestais_especies_madeireiras_interesse_comercial_2016.csv')
+for(i in (1:nrow(snif))){
+snif$genero[i] = strsplit(snif$Nome.científico[i], " +")[[1]][1]
+}
+for(i in (1:nrow(snif))){
+snif$epiteto[i] = strsplit(snif$Nome.científico[i], " +")[[1]][2]
+}
+snif$chave = paste(snif$genero,"_",snif$epiteto, sep="")
+```
+
+
+```{r}
+censo$comercial = ifelse(censo$chave %in% snif$chave, 1, 0)
+```
+
+```{r}
+string = 'NAOCOMERC: '
+naoComercial = censo %>% filter(comercial == 0)
+
+for(i in (1:nrow(naoComercial))){
+   string = paste(string, naoComercial$tag[i], "+")
+}
+print(string)
+```
+
+###  Desenvolvimento rodada 3
+
+1. Incorporar restrição de árvores protegidas.
+
+Lista de árvores proibidas.
+
+```{r}
+
+proibida = censo %>% filter(categoria == 'Proibida') %>% 
+  select(c('cientifico', 'familia', 'genero', 'epiteto', 'chave'))
+proibida = unique(proibida$chave)
+```
+
+Cria restrições com árvores proibidas
+
+```{r}
+censo$proibida = ifelse(censo$chave %in% proibida, 1, 0)
+
+string = 'PROIBIDA: '
+arvProibida = censo %>% filter(proibida == 1)
+
+for(i in (1:nrow(arvProibida))){
+   string = paste(string, arvProibida$tag[i], "+")
+}
+print(string)
+```
+
+2. Incorporar restrição de árvores raras.
+
+Lista de árvores raras
+
+```{r}
+
+raras = censo %>% filter(categoria == 'Rara') %>% 
+  select(c('cientifico', 'familia', 'genero', 'epiteto', 'chave'))
+raras = unique(raras$chave)
+```
+
+Cria restrição para cada espécie raras
+
+```{r}
+areaProjetoHa = 290
+correcao = areaProjetoHa / 100
+
+censo$raras = ifelse(censo$chave %in% raras, 1, 0)
+
+for(e in (raras)){
+  string = paste0('SP_', e,': ')
+  arvRaras = censo %>% filter(chave == e)
+  for(i in (1:nrow(arvRaras))){
+     string = paste(string, arvRaras$tag[i], "+")
+  }
+  print(string)
+  print(round(nrow(arvRaras)-(5*correcao)))
+}
+```
+
+3. Incorporar restrição de mínimo de três para cada 100 ha.
+
+```{r}
+areaProjetoHa = 290
+correcao = areaProjetoHa / 100
+
+arvLim3 = censo %>% filter(comercial == 1)
+especies = unique(arvLim3$chave)
+
+for(e in (especies)){
+  string = paste0('SP_', e,': ')
+  arvCorte = censo %>% filter(chave == e)
+  for(i in (1:nrow(arvCorte))){
+     string = paste(string, arvCorte$tag[i], "+")
+  }
+  print(string)
+  print(round(nrow(arvCorte)-(3*correcao)))
+}
+```
+
+###  Desenvolvimento rodada 4
+
+1. Mudar função objetivo para maximizar volume cortado, garantindo restrições já construídas.

@@ -1,0 +1,9 @@
+---
+title: "01introducao.Rmd"
+---
+
+Sobre o BDq?
+
+As fraquezas do BDq. Recomendações de corte decimais, dependência de inventário amostral, q alvo fixo, valores agregados por classe diamétrica, não permite descriminar tipos de árvores (comercial vs não comercial), não aceita restrições da legislação.
+
+Apresentar a programação linear e suas características... vantagens e desvantagens...
